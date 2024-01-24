@@ -1,0 +1,206 @@
+﻿Proforma for of Pest/ Disease wise information for preparation of AL/ML tool
+Crop: Chilli
+Name of Pest:  
+Common Names: Tobacco thrips, Taiwanese thrips and South East Asian Thrips
+Scientific Name: Thrips parvispinus (Karny.)
+
+
+Host Range: Capsicum, Chilli, Green beans, Potato, Brinjal, Papaya and Tobacco.
+
+
+Pest Distribution: Andhra Pradesh, Karnataka and Telangana.
+
+
+Pest Identification features/Morphology: Eggs are microscopic, Adult-Antennae 7 segmented; Abdominal sternite VII without discal setae. Forewing second vein with complete setae row; lateral third of tergites without closely spaced rows of minute microtrichia.
+
+
+Life Cycle & Biology: 
+Eggs are inserted into leaves; after four to five days, larvae hatch to feed on leaves and flowers. Larvae go through two molts in four to five days, mature and pupate. Adult can live upto 45 days laying 50-300 eggs.
+ 
+Symptoms of damage: 
+On leaves 
+1. Thrips prefer areas adjacent to veins for colonizing and feeding. 
+2. Deep punctures and scratches on the underside of the leaves. 
+3. Due to scrapping of chlorophyll on underside of leaves and sucking of cell sap corresponding portion on upper side of leaves appears yellowish and blotchy 
+4. Reddish brown discolouration on under the surface of the leaves. 
+5. Distorted leaf lamina with necrotic areas and yellow streaks.
+6. New flesh completely dry or blighted in case of sever infestation.
+
+
+On floral parts 
+1. Brownish streaks on the petals due to scraping by thrips. 
+2. Pollination may be affected due to feeding on pollen. 
+3. Drying and withering of the flower. 
+4. Affect fruit set.
+
+
+ETL Levels: So far not developed these criteria for Thrips parvispinus.
+
+
+Favourable Conditions of Pest: Occurs in unirrigated lands with hot and dry condition.
+
+
+Management Practices: 
+The following IPM practices are suggested for management of thrips complex on chilli. The IPM practices have to be followed under wide area basis/community approach for better results. 
+
+
+Regulatory measures:
+It is observed that mature leaves and fruits harbor less number of thrips. The petiole region of the chilli has to be thoroughly inspected during routine Phytosanitary inspections of the export shipments. For the purpose of red chilli export, fully ripen and partially withered pods to be harvested. Harvested pods are sun dried to bring down the moisture to 10%. The process of harvesting and sun drying eliminate all the insect pest, if they are associated. Therefore, T. parvispinus or any other species of thrips for that matter are not an impediment in export of red chilli. However, pesticide residues should be monitored by following waiting period.
+
+
+Cultural Methods 
+1. Deep summer ploughing to destroy pupae and residual stages of thrips and other pests. 
+2. Advance cropping season and avoid staggered planting.
+3. Application of well decomposed farm yard manure (FYM) or compost @ 2.5 t/ha, enriched with Metarhizium anisopliae or Pseudomonas fluorescens @ 2 kg/t along with recommended doses of farm yard manure (25 to 30t/ha). 
+4. Soil application of 500 kg of Neem cake and 1.50 -2.00 ton of Vermi-compost/ha to manage thrips incidence.
+5. Growing resistant or early/short duration varieties if available in order to escape the peak incidence of thrips. 
+6. Seed treatment with Imidacloprid 70WS @10 g per kg seed. 
+7. Seedling root dip for 30 minutes with Imidacloprid 17.8% SL @ 0.5 ml/ L. 
+8. Follow recommended spacing (60 x 30 cm or 45 x 45 cm) and avoid close spacing, as the high density planting favours the pest incidence and multiplication. 
+9. Balanced fertilization with enhanced potash application along with nitrogen and phosphorous fertilizers to induce plant resistance against the pest. 
+10. Mulching with silver coloured polythene sheets of 25–30-micron thickness to reduce pupation of thrips in the soil. 
+11. Border cropping with 2-3 rows of tall growing crops like sorghum / maize / bajra / fodder grasses etc. sown thickly as a barrier for thrips movement. 
+12. Intercropping chilli with maize / sorghum and cowpea @ 10:3:1 as barrier and reservoir 
+13. crops for natural enemy multiplication, leading to biological control of thrips. 
+14. Frequent inter cultivation (earthing up/raking of soil) operations to destroy soil inhabiting pupae of thrips. 
+15. Clean cultivation and maintaining weed free bunds are crucial for the management of pests. Uprooting and destruction of weeds such as Parthenium hysterophorus, Cleome viscosa, Prosopis sp., Lantana camara, Calotropis sp., Tecoma sp., Abutilon sp., wild Solanum sp., etc. present in the vicinity of field bunds which act as off season and alternate host for thrips. 
+16. Crop rotation with crops belonging to the family Poaceae or Gramineae (cereals). 
+
+
+Mechanical Methods 
+1. Nipping and destruction of severely infested apical shoots at vegetative stage for destruction of thrips residing over apical parts. 
+2. Mechanical destruction of severely infested plants by uprooting and burying or incineration. 
+3. Installation of blue or yellow/white sticky traps @ 65–75 traps/ha at crop canopy height for mass trapping purpose and 20-25 traps/ ha for monitoring purpose. 
+4. Adopting sprinkler irrigation system instead of flood irrigation, since the jet of water spray from sprinklers disrupts the growth and multiplication of thrips. 
+
+
+Biological Methods 
+1. Conservation of native natural enemies by avoiding spraying of chemical pesticides to the extent possible. 
+2. Spraying of microbial based insecticides like Beauveria bassiana or Lecanicilium lecanii @ 4 g or ml/L (spore load - 1x108 cfu/g or ml), Pseudomonas fluorescence – NBAIR-PFDWD @ 20 g/L or Bacillus albus – NBAIR-BATP @ 20 g/L uniformly covering whole plant. 
+3. Foliar spray of Entomo-Pathogenic Nematode (EPN), Steinernema carpocapsae formulation @ 10g/L + 1 g wetting agent. 
+4. Soil application of EPNs, Steinernema carpocapsae or Heterorhabditis indica @ 7.50- 12.50 kg/ha. It can be applied as soil drenching after mixing in 500 -750 L of water. EPN’s are to be used early in the morning or during late evening hours as they are sensitive to UV and high temperature. Spraying of EPNs in peak sunshine hours be avoided. 
+
+
+Botanical/ Organic Methods 
+1. Spraying 5% Neem Seed Kernel Extract (NSKE) or 5% Neem Seed Powder Extract or 0.50% Neem oil (5 ml/L), 0.50% Pongamia oil (5 ml/L), and 5% Vitex negundo extract (50 ml/L). 
+2. Spraying of commercial formulation of neem based insecticide (Azadirachtin 3000 PPM) @ 2 ml/L. 
+3. Spraying of 2% Fish Oil Rosin Soap (FORS) (20 ml/L) solely or in combination with Neem Seed Kernel Extract. 
+4. Spraying of sea weed (Kappaphycus alvarezii) extract @ 2 ml/L for inducing resistance in plant to withstand the severe incidence of thrips. 
+
+
+Chemical Methods 
+   1. As a final resort, need based and judicious spray of label claim insecticides as given in Annexure below. 
+   2. Sprayings should be taken up uniformly covering whole plant 
+   3. The insecticide solutions to be added with appropriate stickers and spreaders while spraying. 
+   4. Spraying of unregistered agro-chemicals such as pesticides, plant growth regulators, nutrient mixtures, etc. to be strictly avoided. 
+   5. The waiting periods mentioned against insecticide molecules (furnished in the annexure below) to be followed to avoid pesticide residues in the harvested produce.
+   6. Repeated spraying of chemical insecticides with same mode of action and spraying of sub-lethal doses to be avoided to overcome thrips resurgence (sudden outbreak).
+
+
+Annexure: CIB & RC approved registered Insecticides for Thrips in Chilli with waiting period
+Insecticides
+	Dosage per ha in required water
+	Waiting        period        
+(in days)
+	Acephate 95 % SG
+	790 g in 500 L
+	    07
+	Acetamiprid 20 % SP
+	50-100 g in 500-600 L
+	03
+	Carbofuran 03 % CG
+	33.30 kg
+	--
+	Cyantraniliprole 10.26% OD
+	600 g in 500 L
+	03
+	Dimethoate 30 % EC
+	600 ml in 500-1000 L
+	--
+	Emamectin benzoate 05% SG
+	200 g in 500 L
+	03
+	Emamectin benzoate 1.90% EC
+	375 ml in 500 L
+	14
+	Ethion 50 % EC
+	1.50-2.00 L in 500-1000 L
+	05
+	Fenpropathrin 30 % EC
+	250-340 ml in 750-1000 L
+	07
+	Fipronil 05 % SC
+	800-1000 g in 500 L
+	07
+	Fipronil 80 % WG
+	50.00 -62.50 g in 500 L
+	05
+	Imidacloprid 70 % WS
+	1.00 -1.50 kg
+	--
+	Imidacloprid 30.50%m/m SC
+	125-150 g in 500 L
+	05
+	Imidacloprid 17.80 % SL
+	125-250 ml in 500-700 L
+	40
+	Lambdacyhalothrin4.90% CS
+	500ml in 500 L
+	          05
+	Lambda-cyhalothrin05% EC
+	300 ml in 400-600 L
+	05
+	Methomyl 40 % SP
+	0.75-1.12 kg in 500-1000 L
+	    5-6
+	Oxydemeton-methyl 25% EC
+	1 L in 500-1000 L
+	--
+	Spinosad 45 % SC
+	160 g in 500 L
+	03
+	Spirotetramat 15.31%w/w OD
+	400 g in 500 L
+	05
+	Thiacloprid 21.70% SC
+	225-300 g in 500 L
+	05
+	Thiamethoxam 30 % FS
+	Used as seed dresser
+	
+
+	Tolfenpyrad 15 % EC
+	1 L in 500 L
+	07
+	Diafenthiuron 47 % + Bifenthrin 09.40
+% w/w SC
+	625 ml in 500 L
+	07
+	Emamectin Benzoate 01.50 % +
+Fipronil 03.50 % SC
+	500-750 g in 500 L
+	03
+	Emamectin benzoate 5 % w/w +
+Lufenuron 40 % w/w WG
+	60 g in 500 L
+	03
+	Flubendiamide 19.92 % + Thiacloprid
+19.92 % w/w SC
+	200-250 ml in 500 L
+	05
+	Fipronil 07 % + Hexythiazox 02 %
+w/w SC
+	1 L in 500 L
+	07
+	Hexythiazox 3.5% + Diafenthiuron
+42% WDG
+	650 g in 500 L
+	07
+	Indoxacarb 14.5 % + Acetamiprid 7.7
+% w/w SC
+	825-875 ml in 500 L
+	05
+	Profenofos 40 % + Fenpyroximate 2.5
+% w/w EC
+	1 Lin 500 L
+	07

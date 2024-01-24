@@ -1,0 +1,54 @@
+﻿Proforma for of Pest/ Disease wise information for preparation of AL/ML tool
+CROP: COCONUT
+Name of Pest:  Common Name: Rugose Spiralling Whitefly (RSW) 
+                          Scientific Name: Aleurodicus rugioperculatus Martin.
+Host Range: Coconut, Mango, Guava, Banana
+Pest Distribution: Tamil Nadu, Karnataka, Andhra Pradesh, Telangana and Kerala
+Pest Identification features/Morphology: 
+1. Egg: Females lay eggs on the underside of leaves; Eggs are elliptical and yellowish in colour, 0.3mm long, translucent with a short stalk and are laid singly and associated with irregularly spiralling deposits of white flocculent wax surrounding each egg in a semi-circular spiralling fashion. 
+2. Crawler stage: The first instar, known as the crawler stage (because it is the only mobile immature stage) hatches out of the egg, and looks for a place to begin feeding with its needle-like mouth parts used to suck plant sap. Crawlers moult into immature stages that are immobile, oval and flat initially but become more convex with the progression of its life cycle.  
+3. Nymphal stage: Sessile nymphs are about 1.1 - 1.5 mm long but may vary in size depending on instars. The nymphs are light to golden yellow in colour, and will produce a dense, cottony wax as well as long, thin waxy filaments which get denser over time.  
+4. Pseudo-puparium: The final immature stage is the pseudo-puparium, which is about 1 mm in length and is used in taxonomic identification. 
+5. Adults: Rugose spiralling whitefly adults are about three times larger (approx. 2.5 mm) than the commonly found whiteflies and are lethargic by nature.  RSW adults can be distinguished by their large size and the presence of a pair of irregular light brown bands across the wings. Males have long pincer-like structures at the end of their abdomen.
+Life Cycle & Biology: 
+* Eggs: Females lay eggs on the underside of leaves in a concentric circular or spiral pattern and cover it with white waxy matter. Adult females sometimes lay their eggs on non-plant surface cars, windows and walls.
+* Immature stages: RSW has 5 developmental stages. The first instar known as the crawler stage, hatches out of the egg, and looks for a place to begin feeding with its needle like mouth parts, used to suck plant sap. Crawlers moult into immature stages that are immobile, oval and flat initially but become more convex with the progression of its life cycle. Nymphs are about 1.1-1.5 mm long but may vary in size depending on instars. The nymphs are light to golden yellow in colour, and will produce a dense, cottony wax as well as long, thin waxy filaments.
+* Adults: RSW adults are about three times larger (approx. 2.5 mm) than the commonly found whiteflies and are lethargic by nature.
+
+
+Symptoms of damage: 
+* The immature and adult whiteflies have a sucking feeding habit
+* Siphon out coconut sap by selective feeding on the under surfaces of the leaflets. 
+* Extensive feeding of the insect leads to the excretion of honey dew which subsequently gets deposited on the upper surface of the leaves. 
+* Honey dew excrement, being sweet and watery, attracts ants and encourages growth of the fungus Capnodium sp.  
+* Which causes disfigurement of hosts and affects the photosynthetic efficiency of the plant 
+* The nature of the pest attack will be noticed first from the outer whorls and slowly it progresses towards the inner whorls.
+* The pest is seen active during the year where temperatures are high
+ETL Levels (Estimation of Damage levels): 
+It is categorized as 
+* Low (<10 egg spirals/ leaflet), 
+* Medium (10-20 egg spirals/leaflet) and 
+* High (>20 egg spirals/ leaflet). 
+Favourable Conditions of Pest: 
+* Rainfall: They are so sensitive to wet season and heavy rains which results in decrease in RSW population.
+* Relative Humidity: Drop in relative humidity is also the immediate reasons for the flare up of RSW pest population. 
+* Temperature: Increase in temperature during summer is another pre-disposing factor for the increase in pest population. 
+Management Practices: 
+1. Resistant varieties, cultivars developed: So for no resistant variety known.
+2. Regulatory measures: So far no domestic quarantine measures.
+3. Cultural Practices
+* Avoid transplanting of affected coconut seedlings.  
+* Adopt proper spacing as per the recommendation. 
+* Application of optimum recommended doses of fertilizers on the basis of soil health card (soil-testing).
+4. Mechanical/Physical practices
+* Coconut leaflets can be dislodged by forced water spray, targeting the lower surface of the leaflets.
+* Installation of yellow sticky traps on the palm trunk @ 15 /acre is recommended to manage the RSW. 
+* Installation of yellow light traps.
+5. Biological methods:
+* Encourage build-up of parasitoid (Encarsia sp.) in the orchards and re-introduce parasitized pupae in the whitefly-infested orchards. 
+* Conserve and augment predators of RSW such as Chrysopa and Coccinellids, which are available in the field. 
+* Release 1st instar larvae of green lacewing (Chrysoperla sp./ Mallada sp.) @ 4000/ acre
+* Spray of entomopathogenic fungus Isaria fumosorosea @ 5ml/l of water mixed with detergent/ Khadi soap @ 5g/l can be done at fortnightly intervals to manage the RSW infestation 
+* Note: Sooty mould (Capnodium sp.) growth on the leaf surface can be flaked out by spraying 2.5% of maida paste solution mixed with detergent/ Khadi soap @ 5g/ l. or 1% Starch solution mixed with detergent/ Khadi soap @ 5g/ l.
+* Botanicals:  In severe cases, spray only neem oil @ 0.5% or NSKE 5% and avoid any form of insecticides. 
+6. Chemical methods: So far no CIBRC approved pesticides known.

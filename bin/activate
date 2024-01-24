@@ -37,7 +37,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="/Users/nc25018_kavin/Documents/demo_3.9.6"
+VIRTUAL_ENV="/Users/nc25020_sidhi/Downloads/demo_3.9.6/openai-env"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
@@ -54,7 +54,7 @@ fi
 
 if [ -z "${VIRTUAL_ENV_DISABLE_PROMPT:-}" ] ; then
     _OLD_VIRTUAL_PS1="${PS1:-}"
-    PS1="(demo_3.9.6) ${PS1:-}"
+    PS1="(openai-env) ${PS1:-}"
     export PS1
 fi
 

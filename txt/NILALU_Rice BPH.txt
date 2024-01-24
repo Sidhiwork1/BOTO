@@ -1,0 +1,81 @@
+﻿Crop: Rice
+Name of Pest:Brown Plant Hopper (BPH), Nilaparvata lugens
+Host Range: Rice, Wheat and wild grasses
+Pest Distribution: Kerala,(Kole lands of Trichur district and Kuttanad area in Kottayam and Alleppy districts), Andhra Pradesh, Orissa, northern districts of West Bengal, Himachal Pradesh, Madhya Pradesh, Chhattisgarh, Tamil Nadu (Coimbatore), Karnataka,UttarPradesh, Bihar, Haryana, and Punjab.
+Pest Identification features/Morphology: 
+* Egg:The eggs of BPH are white; transparent cylindrical and are arranged in 2 straight lines
+* Nymph:Freshly hatched nymph is cottony white, 0.6 mm long and it turns purple-brown, 3.0 mm long in the fifth instar.
+* Adult:Adult hopper is 4.5-5.0 mm long and has a yellowish brown to dark brown body. The wings are sub hyaline with a dull yellowish tint. 
+Life Cycle& Biology:
+* Egg: The female can lay eggs ranging between 100 and 500 eggs.The eggs are laid in a group of 2 to 12 in leaf sheath (near the plant base or in the ventral midribs of leaf blades). (They are covered with a dome - shaped egg plug secreted by the female. Only the tips protrude from the plant surface). Female can lay up to 650 during its life time. The hatching period of the egg varies from 5-8 days.
+* Nymph:Freshly hatched nymph is cottony white, 0.6 mm long and it turns purple-brown, 3.0 mm long in the fifth instar. The nymphal period of BPH varies between 12 to 15 days.
+* Adult: Adult hopper is 4.5-5.0 mm long and has a yellowish brown to dark brown body. The wings are sub hyaline with a dull yellowish tint. This stage has two characteristic wing morphs: macropterous (long winged) and brachypterous (short winged). Macopterous adults can fly for a long distance while brachypterous adults are adapted for reproduction and produce numerous offspring. They live usually for about 10-21 days.
+Symptoms of damage:BPH causes adverse effects on paddy plants at all stages of growth. BPH damages the plant directly by sucking to plant phloem sap and indirectly by transmitting viral diseases like grassy stunts and ragged stunts. The pest feeds directly on the growing plant, reducing its yield potential. If the pest density is high, the plant dies and a condition known as hopper burn occurs (yellowing, browning and drying of plant).Circular patches of drying and lodging of matured plants are observed in the field. Nymphs and adults congregate at the base of the plant above the water level.Affected plant dries up and gives a scorched appearance called “hopper burn”.At this level, crop loss may be 100%. Hopper burn caused by the plant hoppers is distinguished from other hopper burn symptom by the presence of visible sooty molds at the bases of the rice plant. Virus infected plants may also be found. In field conditions, plants nearing maturity can have hopper burns if infested with about 400−500 BPH nymphs.
+ETL Levels:
+Early to late tillering: 10-15 hoppers/hill
+Panicle initiation to booting:15-20 hoppers/hill
+Favourable Conditions of Pest: 
+High humidity (>90%) with temperature of 25-32 oC, Excessive use of nitrogenous fertilizer (more than recommended),  Closer crop canopy, Indiscriminate use of pesticides especially at the early stage of the crop which kill their natural enemies and continuous submerged condition in the field favours the buildup of BPH population. 
+Management Practices: 
+Resistant varieties:Vijetha, Chaitanay, Krishnaveni, Pratibha, Vajram, Makom, Pavizham, Mansarovar, CO 42,Jyoti, Chandana, Nagarjuna, Sonasali, Rasmi, Neela, Annanga, Daya, Bhadra, Karthika, Aruna, Remya, Kanakam, Bharathidasan, Remya, Triguna, IET 8116, Rajendra Mahsuri-l, Pant dhan 11, Rajshree, Bhudeb and Hanseshwari.(Local agriculture office should be contactedfor up-to-date lists of available resistant varieties).
+Cultural control
+Before planting:
+* Choose resistantvarieties or varieties that have tolerance to the brown plant hopper.Local agriculture office should be contacted for up-to-date lists of available resistant varieties.
+* Avoid staggered planting, preventing plant hoppers moving from older to younger crops in ever greater numbers. Plant at the same time as neighbors, within a period of 2-3 weeks.
+* Remove volunteer plants/weeds.
+* Rotate rice with other crops. Do not plant rice crops one after another so that large populations of the brown plant hopper can migrate easily between them.
+During growth:
+* Drain the paddies for 3-4 days during the early stage of infestation.
+* Apply split applications (three times) of nitrogen fertilizer, not all at one time.
+* Allow plants (weeds) on the bunds (and at the borders of dryland crops), and between fields, to flower in order to attract natural enemies. 
+* Avoid indiscriminate use of insecticide, which destroys natural enemies.
+* Look for BPH daily in the seedbed, or weekly in the field, on stems and the water surface. Check each side of the seed bed (ordirect-seeded fields). For older rice plants, grasp the plant, bend it over slightly, and gently tap it near the base to see if plant hoppers fall onto the water surface. For transplanted rice look at bases of 10 to 20 hills as you cross the field diagonally.
+After harvest:
+* Plough the field after harvest, removing the stubble that would otherwise allow the brown planthoppers to continue to breed.
+
+
+Mechanical & physical measures
+1. Collection of egg masses and larvae of pest to be placed in bamboo cages for conservation of biocontrol agents.
+2. Flood the seedbed, for a day, so that only the tips of seedlings are exposed which will control BPH.
+3. Use light traps (e.g., an electric bulb or kerosene lamp near a light colored wall or over a pan of water) at night when rice is prone to plant hopper attack. Do not place lights near seedbeds or fields. If the light trap is inundated with hundreds of BPH, it's a signal to check your seedbed or field immediately; then scout every day for the next few weeks.
+
+
+Biological methods
+   1. If natural enemies out-number BPH the risk of hopper burn is low. Even rice already     damaged by hopper burn should not be treated with insecticides if natural enemies out-number BPH.
+   2. Natural enemies of BPH include water striders, mirid bugs, spiders, and various egg parasitoids.
+
+
+Parasitoids: 
+Egg parasitoids:
+1. Gonatocerus spp.- Parasitize on an average 8 eggs per day
+2. Anagrus spp. - Parasitizes 15 to 30 eggs/day.
+3. Oligosita spp. -Consume 2 to 8 eggs per day.
+Larval parasitoids
+Pseudogonatopus spp.-Pseudogonatopus attack plant hoppers and act as parasites and predators. Adults of Pseudogonatopus are brown or black in colour. Females are wingless with pincher like front claws.
+Predators: 
+Coccinellid beetles-
+Micraspis hirashimai, Ladybird beetles - Preying on small hoppers and exposed eggs 
+Harmonia octamaculata - Preying on small hoppers and exposed eggs
+Carabid beetle-
+Ophionea nigrofasciata, Ground beetle - Preying planthoppers
+Rove beetle-
+Paederus fuscipes Rove beetle - Preying planthoppers, eggs. 
+Spiders
+Pardosapsuedoannulata, Wolf spider - Prey plant hoppers,
+Oxyopesjavanus, Lynx spider - Prey plant hoppers 
+Tetragnathamaxillosa, Long-jawed spider - Prey plant hoppers
+
+
+Botanicals:(Approved Botanical and biopesticides as per CIBR&C MUP)
+1. Azadirachtin 0.15% EC w/w Min. Neem Seed Kernel Based @ 1500-2500 ml in 500 L of water/ha, or
+2. Azadirachtin 00.03% EC Min. Neem Oil Based @ 2000 ml in 1000 L of water/ha, or
+3. Azadirachtin 05.00% w/w Min. Neem Extract Concentrates @ 200 ml in 400 L water/ha.
+Bio insecticide: 
+1. Metarhizium anisopliae 1.15% WP @2.5 kg in 500 L of water/ha.
+
+
+Chemical methods:
+Judicious use of any of the following chemical pesticide may be done after the proper identification of the Brown Plant Hopper by an expert and after the Pestcrosses the ETL level.
+
+
+Acephate 95 % SG @ 592g formulation in 500 L of water/ha(Waiting period 30 days), Acetamiprid 20 % SP @ 50-100g formulation in 500 -600L of water/ha(Waiting period 7 days), Benfuracarb 03 % GR @ 33000 g/ha(Waiting period 20 days), Benzpyrimoxan 10% SC @750-1000 ml in 500 L of water/ha(Waiting period 31 days), Buprofezin 25 % SC @800 g in 400 – 500 L of water/ha(Waiting period 20 days), Buprofezin 70 % DF @250g in 500 L of water/ha(Waiting period 24 days), Carbofuran 03 % CG@ 25000g/ha, Carbosulfan 25% EC @800 – 1000 ml in 500 – 1000 L of water/ha(Waiting period 14 days), Chlorpyrifos 01.50 % DP @ 25000g/ha (Waiting period 07 days),Clothianidin 50 % WDG @ 20 – 24g in  500L of water/ha(Waiting period 12 days), Dinotefuran 20 % SG @ 150 – 200 g in 500 L of water/ha(Waiting period 21 days), Ethofenoprox 10 % EC @ 500 – 750ml in 500 L of water/ha(Waiting period 15 days), Fenobucarb (BPMC) 50 % EC @500 – 1500ml in 500 L of water/ha(Waiting period 30 days), Fipronil 05 % SC @1000 – 1500 ml in 500 L of water/ha(Waiting period 32 days), Fipronil 18.87 % w/w SC @ 250 ml in 500 L of water/ha(Waiting period 46 days), Fipronil 00.30 % GR @ 16670 –25000 g/ha(Waiting period 32 days), Flonicamid 50 % WG @ 150g in  500L of water/ha(Waiting period 36 days), Flupyrimin 2% GR @5000-7500g/ha(Waiting period 77 days), Imidacloprid 70 % WG @ 30 – 35g in  300 – 375 L of water/ha(Waiting period 07 days), Imidacloprid 30.50 % m/m SC @60 – 75 ml in 500 – 750 L of water/ha(Waiting period 37 days), Imidacloprid 17.80 % SL @100 – 125ml in  500 – 700 L of water/ha(Waiting period 40 days), Imidacloprid 17.1 % w/w SL @ 300 ml in 500 L of water/ha(Waiting period 39 days), Monocrotophos 36 % SL @1250ml in  500 – 1000 L of water/ha, Pymetrozine 50 % WG @ 300g in 500 L of water/ha(Waiting period 19 days), Quinalphos 25 % Gel @ 1000ml in 500 – 1000 L of water/ha,  Quinalphos 20 % AF @ 1250 – 1500 g in  750 – 1000 L of water/ha(Waiting period 40 days), Quinalphos 25 % EC @ 1500ml in 500 – 1000 L of water/ha(Waiting period 40 days), Quinalphos 01.50 % DP @ 20000 g/ha(Waiting period 40 days), Thiamethoxam 75 % w/w SG @150g in500 ml water and mix with 20 kg sand/ha(Waiting period 60 days), Thiamethoxam 25 % WG @ 100g in 500 – 750 L of water/ha(Waiting period 14 days), Triflumezopyrim 10% w/w SC @ 236ml in 500 L of water/ha(Waiting period 21 days), Acephate 50 % + Fipronil 5% WDG @ 1000g in 500 L of water/ha(Waiting period 27 days), Acephate 50 % + Imidacloprid 01.80 % SP @1000g in 500 L of water/ha, Acetamiprid 00.40 % + Chlorpyriphos 20 % EC @ 2.50 ml in  500 – 800 L of water/ha(Waiting period 10 days), Azoxystrobin 10.0% + Fipronil 5% SC @ 1250ml in 500 L of water/ha(Waiting period 53 days), Buprofezin 09 % + Acephate 24 % w/w WP @ 600g in  500L of water/ha(Waiting period 20 days), Buprofezin 15 % + Acephate 35 % w/w WP @ 1250g in  500 L of water/ha(Waiting period 20 days), Buprofezin 20 % + Acephate 50 % w/w WP @ 1000g in  500 L of water/ha(Waiting period 20 days), Buprofezin 20 % + Acetamiprid 2% w/w WP @ 800g in 400 L of water/ha(Waiting period 15 days), Buprofezin 22 0% + Fipronil 3 % SC @ 500 ml in 400 – 500 L of water/ha(Waiting period 32 days), Buprofezin 23.10 % + Fipronil 03.85 % w/w SC @ 750ml in 500 L of water/ha(Waiting period 30 days), Cartap Hydrochloride 50 % + Buprofezin 10 % w/w WP @ 800g in 500 L of water/ha(Waiting period 20 days), Deltamethrin 00.72 % + Buprofezin 05.65 % w/w EC @ 1250 + 1500ml in 500 L of water/ha(Waiting period 30 days), Dinotefuran 4 % + Acephate 50% w/w/ SG @ 500g in 500 L of water/ha(Waiting period 28 days), Dinotefuran 15 % + Pymetrozine 45% WG @ 333 g in 500 L of water/ha(Waiting period 24 days), Ethiprole 40% + Imidacloprid 40 % WG @ 93.75g in  375 L of water/ha(Waiting period 15 days), Ethiprole 10.7% + Pymetrozine 40% WG @ 375-425 g in 375 L of water/ha(Waiting period  27 days), Fenobucarb 20 % + Buprofezin 05 % w/w SE @ 2000 ml in 500 L of water/ha(Waiting period 30 days), Fipronil 5% + Buprofezin 20% SC @ 500 ml in 500 L of water/ha(Waiting period 20 days), Flubendiamide 04 % + Buprofezin 20 % w/w SC @ 175 + 700 ml in 500 L of water/ha(Waiting period 30 days), Fipronil 04 % + Thiamethoxam 04 % w/w SC @ 1100 ml in 500 L of water/ha(Waiting period 45 days), Fipronil 15% + Flonicamid 15% WDG @400 g in 500 L of water/ha(Waiting period 30 days), Indoxacarb 10.0% + Thiamethoxam 10.0% WG @ 500g in 50 L of water(Waiting period 14 days), Isoprothiolane 28% + Fipronil 5% EC @ 1000ml in 500 L of water/ha(Waiting period 58 days), Phenthoate 45% + Cypermethrin 6% EC @ 1000ml in 500 L of water/ha(at the end of the harvest), Acetamiprid 00.40 % + Chlorpyriphos 20 % EC @ 2.5 ml in 500 – 800 L of water/ha (waiting period 10 days),Chlorantraniliprole 00.50 % + Thiamethoxam 01 % w/w GR @ 6 kg/ha(waiting period 60 days), Sulfoxaflor 21.8 % w/w SC @ 375 ml in 500 L of water/ha(waiting period 14 days).

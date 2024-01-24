@@ -1,0 +1,530 @@
+﻿LATE BLIGHT OF POTATO
+INTRODUCTION: 
+The Potato was originated in the hills of Andes and Bolivia in South America, subsequently it was introduced into Europe by Spaniards in the second half of the 16th century, from there it spread throughout Europe and rest of the world in the mid-17th to mid of 18th century. In Asia, particularly in India, Potato was introduced by Portuguese in 17th century.
+            The late blight fungus co-evolved with potato in Central and South America and subsequently spread to other parts of the world mainly through infected seed tubers. Late blight has historically been an important and serious fungal disease of potatoes and tomatoes worldwide. Late blight was a major culprit in the 1840s European, the Irish potato famines. It occurs in potato growing areas of the world. Late blight is a disease which is common in Solanaceous plants like potatoes, tomatoes, etc. Late blight in a potato is a lethal disease which can have the potential to devastate the crop. It can attack the crop at any stage and can infect the foliage and tubers.
+
+
+COMMON NAME OF DISEASE: Late blight 
+
+
+SCIENTIFIC NAME OF CASUAL ORGANISM: Phytophthora infestans (Mont.) deBary , an coenocytic oomycete fungus (water mold) belonging to the kingdom Chromista (=Stramenopile).
+
+
+The late blight disease caused by oomycete, which was initially reported as Botrytis infestans in 1845 by C. Montagne, later on German scientist Anton de Bary renamed as Phytophthora infestans (Mont.) de Bary. The mycelium is hyaline and branched. The hyphae are both inter cellular and intracellular. They form rudimentary haustoria in the host leaf cells but in the tubers the haustoria are more common and elaborate (club-shaped, hooked or spirally twisted). 
+
+
+HOST RANGE: 
+Phytophthora infestans has a broad host range within the Solanaceae family. The primary hosts crops of Late blight are potatoes and tomatoes (Economic crops); however, other related plants can also be affected. These include eggplants, peppers, petunias and Solanaceous weeds, such as nightshade species and wild tomato. It is a water mould which can affect the crop severely. They can affect the crops by causing decay in the tubers. The quality and productivity of the crop also decrease when infected by P. infestans. It has the potential to destroy the crop completely.
+
+
+DISEASE DISTRIBUTION: 
+The late blight is worldwide in its distribution. The late blight disease was recorded in India for the first time between 1870 and 1880 in the Nilgiri hills. Under subtropical plains particularly in eastern part of the India, it was first observed in 1898–1900 in Hooghly district of West Bengal. In the northern part, it appeared for the first time in 1883 in Darjeeling and subsequently spread rapidly to other adjoining hills . The late blight disease was observed in Khasi hills (North-eastern Region) in 1885, Kumaon hills in 1897 and in Shimla hills (North-western Region) in 1902. During 1913, it appeared at several places in Assam and Bihar. In plains of Uttar Pradesh, it was reported for the first time in 1943 in Dehradun and Meerut. Severe attack of the late blight was observed in Meerut district in 1949, 1950 and 1951 and subsequently in many other districts of Uttar Pradesh. In Punjab, the disease was occurred annually from 1958 to 1963 except during 1961. In some parts of Maharashtra, Gujarat and Madhya Pradesh, Rajasthan late blight was observed there only in 1970s . Afterwards, appearance of late blight disease is regular feature with high disease severity in hill areas while in plains disease severity is moderate to high level.
+
+
+In India, losses are more in hilly regions where the crop is grown under rain-fed conditions as compared to the plains. The weather conditions of north-eastern hills are more conducive for outbreak of late blight and prevails for longer period as a result it is regular and severe in that region. In the Indo-Gangetic plains, it occurs in mild to moderate form but assumes serious proportion if congenial weather develops early in the crop season. In the Indo- Gangetic plain and occurs annually in the states of Punjab, Uttar Pradesh, Bihar, and W. Bengal. The disease has become a serious problem in the plateau specially in Karnataka also.
+
+
+LATE BLIGHT IN PUNJAB- Hoshiarpur, Jalandhar, Nawan Shehar, Kapurthala, Ropar and Amritsar districts of the state. Hoshiarpur is generally considered to be the hot spot for this disease. Losses in potato yield can go as high as 80% in epidemic years. During past years, Epidemics of the disease have appeared in 1985-86, 1989-90, 1992-93, 1997-98, 2006-07 and recently during 2007-08 season.
+
+
+ LATE BLIGHT IN UTTAR PRADESH- Agra,Meerut, Mathura and Hathras districts of state.
+
+
+LATE BLIGHT IN WEST BENGAL-Birbhum , Bankura, West Midnapore and Burdwan districtsof state.
+
+
+
+
+PATHOGEN ETIOLOGY, LIFE CYCLE &BIOLOGY 
+
+
+ETIOLOGY( SET OF CAUSE /CONDITIONS ): The following favorable weather condition promotes the growth of different phases of life cycle of  Phytopthora infestans 
+
+
+Temperature: Low temperature
+          16-20° C is required for fungal growth.
+        18-22° C is required for spore production.        
+        Less than 14° C is required for indirect spore germination.        
+        7.2-26.6° C is required for Infection and disease development.
+
+
+Humidity: High humidity
+Fully saturated humid condition i.e. 100% RH is required for spore formation, germination 
+and Infection development where as  >80% RH is required for lesion expansion      
+
+
+ Light: The sporangia of  Phytopthora infestans get killed within one hour exposure to sunlight    
+            due to The presence of UV ray. So cloudy and overcast weather promotes late    
+            blight of potato.
+
+
+Rainfall: Intermittent winter rains
+
+
+The severity of late blight infection is governed by chief environmental conditions.
+* Night temperature below dew point for 4 or more hours,
+* Minimum temperature 10°C or slightly above,
+* Mean cloudiness not below O.8°C on the next day,
+* Rainfall during next 24 hours, at least 0.1 mm.
+
+
+BIOLOGY OF PATHOGEN: 
+The plant body is coenocytic mycelium which grows both intra- and inter-cellular inside the host tissue. The sporangiophore develops either singly or in groups on the young seedling and also from the lower side of the leaf of adult plant. 
+
+
+LIFE CYCLE ON POTATO:
+Late blight in potato, occurs in two phases, i.e., the asexual and sexual phases. The asexual life cycle of Phytophthora infestans is characterized by alternating phases of hyphal growth, sporulation, sporangia germination (either through zoospore release or direct germination, i.e. germ tube emergence from the sporangium), and the re-establishment of hyphal growth. There is also a sexual cycle, which occurs when isolates of opposite mating type meet. Hormonal communication triggers the formation of the sexual spores, called oospores. The sexual phase seems to play no significant role in the life history of the pathogen.
+
+
+DISEASE CYCLE:
+Asexual Phase is more common as compared to the sexual mode of the disease cycle. Sporangia invade the plant with zoospores or by forming a germ tube. The biflagellate zoospores have survival potential in dry weather conditions. It can survive for 1 hour in dry conditions and even better in cloudy weather.
+Zoospores (which fall from rain or are transmitted via wind) form a cyst around the host cell and infect it indirectly. The sporangia form a germ tube in dry weather while acting as an individual spore. It can directly invade the host and germinate.
+Sexual Phase occurs via oospores which are formed as a result of karyogamy between antheridium (male) and oogonium (female). Followed by which the oospores develop sporangia by germination and follow the same pathway as described in the asexual mode of the disease cycle.
+The pathogen has a very high potential of reproduction; it can produce up to 3 lakh sporangia in a single day from a lesion, followed by which every new sporangium targets a new host cell at different sites. Since the production of sporangia is really high, the growth of P. infestans is rapid. It causes the destruction of the tubers of potato crops and foliage too. It can rapidly grow to infest the entire field if managed inappropriately.
+SYMPTOMS OF DISEASE  
+The disease first appears on the tops of the plants generally after the blossoming period but mostly in the month of January. It may appear as well at any time during the growth period of the plant. The conditioning factor is the favorable environment. The disease makes its appearance as small, dead, brownish to purplish black areas or lesions. These appear on the tips and margins of the leaflets, rachis, petiole and stem. Under favorable weather conditions (low temperature, high humidity due to intermittent winter rains) the lesions rapidly increase in size involving the whole surface of the leaf. The disease generally first attacks the leaves, and petioles near the ground and the lesions appear on the lower surface of the leaflets on individual plants and then spreads upwards.Potato tubers are often infected in the field after the tops have been blighted.
+        
+ON LEAVES: Small water-soaked spots develop at the tips, margins or any other part of the leaf which enlarge to form irregular dark brown lesions surrounded by a light green halo. During morning hours, a whitish cottony growth of the fungus is visible around the dark brown lesions on the under surface of the leaves especially when weather remains sufficiently humid or when there is dew fall in the morning hours. If the weather turns dry, the lesions become necrotic and dry up. 
+             
+Potato Leaf Showing late blight Symptoms                                Potato foliage affected by late blight
+
+
+
+
+
+
+
+
+ POT-LTB-KOL-004 
+  
+
+                                                 Potato field affected by late blight surface     
+
+
+
+
+ON STEM: In case of infection originating from infected tubers, elongated brown stripes develop on the stem from below the ground level and encircle it. The lesions also appear on the stem near the growing point when the inoculum of the fungus comes from the infected plants. The infection can also start at nodes and extend both up and down the stem and the plant topples down under congenial weather conditions. The infected portions of the stem bear white fungal growth especially visible in early morning hours but are not as prominent as on leaves.
+
+
+ON TUBERS: Infected tubers show irregular, shallow or sunken reddish brown patches. Inside infected tissue is spongy and rusty brown to varying depths. In sub-mountainous areas, the lesions on tubers are locally called "Pathar Dag". Later on, these lesions are often invaded by secondary pathogens especially in wet soils or in storage resulting into soft rot. Smaller immature tubers are more prone to infection as compared to the larger ones and rotting is more in heavy wet soils. Late blight does not spread from tuber to tuber in cold stores. During storage, the bacteria assist to set in the wet rot phase.
+
+
+LATE BLIGHT ON SPRING CROP: In spring crop, which is planted in January, sprouts are attacked at very young stage as the inoculum of the fungus is readily available from the already infected main season crop. Under such conditions, young leaves and stems near the growing points are infected by the fungal spores called sporangia. Brown necrosis is evident around growing points. Ultimately whole of the young sprouts are killed causing almost complete loss in the yield.
+MODE OF SURVIVAL & SPREAD:
+The different types of spores play major roles in the dissemination and survival of P. infestans. Sporangia are spread by wind or water and enable the movement of P. infestans between different host plants .The zoospores released from sporangia are bi-flagellated and chemotactic , allowing further movement of P. infestans on water films found on leaves or soils. Both sporangia and zoospores are short-lived, in contrast to oospores which can persist in a viable form for many years.
+
+
+PRIMARY SOURCE OF INFECTION: The infected seed tubers carrying late blight infection serve as primary   source of the disease. The P.infestans spores get washed down from the infected plant parts to the soil/exposed tubers by rain/dew drops. The spores germinate and infect the exposed tubers. 
+
+
+FAVOURABLE CONDITIONS OF PAHOGENS : TEMPERATURE, RAINFALL ETC (IF NEEDED):
+Favorable weather conditions (low temperature, high humidity due to intermittent winter rains)
+
+
+
+
+
+
+EFFECTS OF LATE BLIGHT:   Late blight of potato, which is caused by P. infestans, is considered to be a community disease which can severely affect other crops too. Severe damage to the foliage shortens the growing season. Consequently, the tubers remain small and reduced in weight. They are produced in smaller numbers. This results in the reduced yield. In severe cases of infection there is complete loss of the crop; Infection also results in the decay of tubers in the field and storage.
+
+
+MANAGENENT PRACTICES:
+
+
+1) USE OF HEALTHY SEED:
+
+
+Only disease free seed should be used. Avoid seed from the field which has been infected by late blight in the previous year. The infected tubers should be removed and buried in the soil. This practice of sorting out late blight infected tubers can also be done at the time of cutting of tubers into seed pieces at planting. The late blight symptoms are easy to be identified in cut-pieces where bronzing of the flesh can be seen easily.
+
+
+2) STORAGE OF TUBERS AT 40ºF   OR BELOW:
+Storage of potato tubers in cold storage rooms reduces or even checks the progress of the rot.
+
+
+3) RESISTANT CULTIVARS:
+
+
+Select varieties which have moderate to high degree of resistance to late blight. Considerable success has been achieved in the perfection of resistant varieties of potato at the potato breeding station, Simla.
+
+
+1. Kufri Girdhari, Kufri Himalini and Kufri Shailja in north-western hills; 
+
+
+2. Kufri Girdhari,Kufri Himalini, Kufri Megha,and Kufri Kanchan in north-eastern hills; 
+
+
+3. Kufri Swarna, Kufri Muthu,Kufri Neela and Kufri Neelima in southern hills. 
+
+
+4. In the sub-tropical plains resistant cultivars like Kufri Anand, Kufri Arun, Kufri Badshah, Kufri Chipsona-1, Kufri Chipsona-2, Kufri Chipsona-3, Kufri Himsona, Kufri Lalit, Kufri Pukhraj, Kufri Sadabahar, Kufri Sutlej.
+
+
+
+
+    RESISTANT   VARIETIES :  CULTIVARS  DEVELOPED:
+Name of variety
+	Disease/pest
+	Kufri anand
+	Moderate resistant to late blight .Immune to wart disease .Tolerant to hopper burn.
+	Kufri arun
+Kufri himalina
+	Moderate resistant to late blight.
+	Kufri Badshah
+	Resistant to PVX, early and late blight
+	Kufri anand
+	Immune to wart disease ;Tolerant to Gemini virus.
+	Kufri chamatkar
+	Immune to wart disease; Resistant to early blight and charcoal rot.
+	Kufri chipsona-1
+	Resistant to late blight.
+	Kufri chipsona- 2
+Kufri frysona
+	Resistant to late blight ; Immune to wart disease.
+	Kufri chipsona-3
+	Resistant to late blight.
+	Kufri chipsona-4
+	Field resistant to late blight.
+	Kufri frysona
+	Field resistant to late blight;Immune to wart disease.
+	Kufri gaurav
+	Moderate resistant to late blight;High tolerance to nutrient stress.
+	Kufrigarima
+	Moderate resistant to late blight.
+	Kufrigirdhari
+	Highly resistant to late blight.
+	Kufri giriraj
+Kufri himsona Kufri jawahar
+	Moderate resistant to late blight; Immune to wart disease.
+	Kufri jeevan
+	Moderately resistant to early and late blight
+	Kufri jyoti
+Kufri kanchan Kufri kashigaro
+	Moderately resistant to early and late blight ; Immune to wart disease.
+	Kufri khyati
+	Field resistant to early and late blight.
+	Kufri kuber
+	Resistance to PLRV.
+	Kufri kumar
+	Immune to wart disease; Moderate resistant to lateb light and charcoal rot.
+	Kufrikundan
+	Moderate resistant to late blight and resistance charcoal rot.
+	*For detailed and updated information nearest KVK / State Agriculture Department ,SAU /ICAR Institute may be contacted.
+
+
+
+
+
+
+
+
+
+
+
+
+4).REGULATORY (IF ANY ):
+
+
+Exchange of plant genetic resources (PGR) has contributed significantly towards crop improvement and increased crop production in the country. However, many pests have also moved across the countries along with planting material. Plant quarantine is a government endeavor enforced through legislative measures to regulate the introduction of planting material, plant products, soil and living organisms, etc. in order to prevent inadvertent introduction of pests (including fungi, bacteria, viruses, nematodes, insects and weeds) harmful to the agriculture of a country/ state/ region, and if introduced, prevent their establishment and further spread. With the liberalization of trade under World Trade Organization (WTO), the quarantine set-up including legislation and infrastructure of the country has been reviewed. As far as legislation is concerned, the Destructive Insects and Pests (DIP) Act was legislated by the British government ruling India in 1914 which was retained revising it as per requirements over the years through various amendments. However, after the WTO came into force, India legislated the Plant Quarantine (Regulation of Import into India) Order in 2003, henceforth referred to as the PQ Order. The Directorate of Plant Protection Quarantine and Storage (DPPQS) of the Ministry of Agriculture and Farmers Welfare is the nodal agency for implementation of PQ Order. ICAR-National Bureau of Plant Genetic Resources (ICAR-NBPGR is the nodal agency for PGR management in the country, has been empowered under the PQ Order for issuance of Import Permit and to undertake quarantine processing of all imported PGR including transgenics and trial material meant for research. Besides, NBPGR also tests samples of bulk imports sent by DPPQS and its Regional Plant Quarantine Stations for presence of exotic pests.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CROP STAGE  WISE  MANAGEMENT  PRACTICES
+
+
+
+
+THE DISEASE CAN BE CONTAINED IF FARMERS FOLLOW THE INTEGRATED MANAGEMENT SCHEDULE.
+
+
+CULTURAL, MECHANICAL, PHYSICAL ,  BIOLOGICAL, CHEMICAL METHODS (FOR SEED TREATMENT ,   NURSERY,  MAIN FIELD ETC)  for LATE BLIGHT OF POTATO  ARE FOLLOWING:
+Management
+	Activity
+	PRE-SOWING/ RESTING PHASE 
+	
+
+	Common Cultural Practices:
+* Summer deep ploughing
+* Soil solarization during summer.
+* Field sanitation, rogueing.
+* Avoid water logged conditions in the field.
+* Follow crop rotation.
+* Apply manures and fertilizers as per soil test recommendations
+* Start to grow ecological engineering plants.
+* Sow/plant 4 rows of maize, sorghum, bajra (pearl millet) around the potato crop field as a guard / barrier crop.
+
+
+	Nutrient
+	* Apply FYM@ 8t/acre or vermin-compost@ 4-6t/acre
+* Apply 2Kg each of Azospirillum and Phospho bacterium with 10KgFYM/acre as soil application before planting.
+	Weed
+	* Stale seed bed technique before sowing.
+* Destroy all the germinated weeds by shallow ploughing before sowing.
+	
+
+
+
+Soil borne pathogens
+	Cultural Control:
+* Give light irrigation and cover the bed with polythene sheet of 45 gauge (0.45mm) thickness for three weeks before sowing.
+* Raise African marigold in the nursery 15days prior to sowing against cyst nematode.
+* Use raised seed beds of more than 35cm height (for better water drainage).
+* Tubers stored in oxygen deficient structures should not be used.
+
+
+Biological Control:
+* Apply neem cake @80Kg/acre.
+* FOR TREATMENT OF SEED TUBERS AND SOIL/NURSERY TREATMENT  APPLICATION :
+Apply Trichoderma viride / T. harzianum and Pseudomonas fluorescens (if commercial products are used, check for label claim. However, biopesticides produced by farmers for own consumption in their fields, registration is not required).
+
+
+Chemical Control:
+* Treat tuber with M.E.M.C.6%FS @ 0.415g/Kg tubers in 100ml water for 3-5 minute or soaking potato seed tubers in streptocycline 40 to 100ppm solution for half an hour prior to planting or with carbendazim 25%+ mancozeb 50%WS @ (1.5+3.0) to (1.75 +3.5) for 10 Kg seed (tuber) or with carboxin 37.5% + thiram 37.5% DS @ (1.5+3.0) to
+(1.75+3.5) for 10 Kg seed (tuber).
+
+
+	SOWING
+
+
+	
+
+	Common Cultural Practices:
+* Use resistant/tolerant varieties.
+* Use healthy, certified and weed seed free tubers.
+
+
+	Nutrients
+	* Apply 48Kg nitogen(N),16Kg phosphorus(P2O5) and 48Kg potassium (K2O)/acre.
+* Apply N and K in two splits; half as basal and half as top dressing at 30 days after sowing.
+
+
+	Plant growth
+regulator(PGR)
+	* Dip cut pieces of tuber (seed) for 10minutes in chlormequat chloride 50%SL@100 PPM solution (before sowing) 
+
+
+	Weeds
+	* Adopt recommended agronomic practices like field preparation, time of sowing, row and plant spacing, gap filling etc. to obtain the healthy plants and to reduce the weed menace.
+* If weed flora of the field is known based on previous season experience the pre-emergencere commended herbicide oxyflourfen 23.5%EC@170-340mlin200-300l water/acre be applied within 3 to 4 days after sowing.
+* When 5 to 10% tubers are germinated; application of paraquat dichloride 24%SL@ 200gram a.i./acre can be used to control broad leaf, sedges and grassy weeds.
+	VEGETATIVE /SEED /TUBER STAGE
+	
+
+	Common Cultural Practices:
+
+
+* Collect and destroy crop debris
+* Judicious use of fertilizers
+* Provide irrigation at critical stages of the crop
+* Avoid water logging
+* Avoid any stress to the crop as much as possible
+* Enhance  biocontrol activity by avoiding chemical spray,when1-2 natural enemies are observed.
+
+
+Common Mechanical and Physical Practices:
+
+
+* Collect and destroy disease infected and insect infested plant parts
+* Collect and destroy eggs and early stage larvae
+* Handpick the older larvae during early stages of crop
+* Use yellow and blue sticky traps @ 4-5trap/acre
+* Use light trap@1/acre and operate between 6pmand10pm
+* Install pheromone traps @4-5/ acre for monitoring adult moths activity (replace the lures with fresh lures after every 2-3weeks )
+* Erect bird perches @ 20/acre for encouraging predatory birds such as Kingcrow ,common mynah etc.
+* Set up bon fire during evening hours at 7-8pm
+
+
+Common  Biological  Practices:
+
+
+* Conserve natural enemies through ecological engineering
+* Augmentative release of natural enemies
+
+
+
+
+Plant growth regulator (PGR) :
+Mepiquat chloride 5% AS  62.5-75 g a.i. (ppm/gm/ %)  Dosage /ha One spray 45 DAP To restrict the excessive vegetative growth of potato and increasing its yield 
+
+
+Plant growth regulator (PGR) :
+Triacontanol 0.05% EC  0.250 gm a.i. (ppm/gm/ %)  Dosage /ha Two sprays at 30 and 45 days after planting To increase the yield 
+
+
+
+
+Plant growth regulator (PGR) :
+Gibberellic Acid 0.001%L @ 0.018gm  a.i. (ppm/gm/ %)  Dosage /ha  To increase the yield and quality of the crop produce First   spray 45 DAS  and Second spray 65 DAS.
+	Management
+	Activity
+	TUBER INITIATION
+	Late blight
+	Common Cultural Practices:
+
+
+* Collect and destroy crop debris
+* Judicious use of fertilizers
+* Provide irrigation at critical stages of the crop
+* Avoid water logging
+* Avoid any stress to the crop as much as possible
+* Enhance biocontrol activity by avoiding chemical spray,when1-2 natural enemies are observed.
+
+
+Common Mechanical and Physical Practices:
+
+
+* Collect and destroy disease infected and insect infested plant parts
+* Collect and destroy eggs and early stage larvae
+* Handpick the older larvae during early stages of crop
+* Use yellow and blue sticky traps @ 4-5trap/acre
+* Use light trap@1/acre and operate between 6pmand10pm
+* Install pheromone traps @4-5/ acre for monitoring adult moths activity (replace the lures with fresh lures after every 2-3weeks )
+* Erect bird perches @ 20/acre for encouraging predatory birds such as King crow , common mynah etc.
+* Set up bon fire during evening hours at 7-8pm
+
+
+Common  Biological  Practices:
+* Conserve natural enemies through ecological engineering
+* Augmentative release of natural enemies
+
+
+Cultural Control:
+
+
+* Use short-duration varieties.
+* The model specifies that 7 days moving sum of RH > 85% for at least 90 hr coupled with a 7 day moving sum of temperature between 7.2 and 26.6°C for atleast 115hr would predict appearance of late blight within 10days of satisfying the conditions.
+
+
+Chemical Control:
+Spray captan 50%WG @ 600g in 200 l water (second spray after 5days interval )or captan 50% WP @ 1 Kg in 300- 400 l water/acre or captan 75% WP @ 666 g in 400 l water /acre (second spray after 8days interval )or chlorothalonil 75%WP @ 350-500gin 240-320 l of water/acre (second spray after 14 days interval) or copper oxychloride 50%WP @1Kg in 300-400 l of water / acre or coppersulphate 2.62% SC@ 400ml in 200 l of water /acre (second spray after 3 days interval) or cyazafamid 34.5% SC @ 80ml in 200 l water/acre (second spray after 27 days interval) or dimethomorph 50%WP@ 400 g in 300 l water/acre (second spray after 16 days interval) or mancozeb 75%WG @ 400 in 200 l water/acre (second spray after 3-5 days interval) or mancozeb 75%WP@ 600-800 g in 300 l water/acre or hexaconazole 2% SC @ 1.2 l in 200 l water /acre (second spray after 21 days interval ) or mandipropamid 23.4%SC @ 0.2ml/l in 200-300 l of water /acre (second spray after 40 days interval ) or propineb 70% WP @ 300 g in 100 l of water or 0.30% as required depending upon crop stage and plant protection equipment used (second spray after 15 days interval) or zineb 75% WP@ 600- 800 g in 300-400 l of water / acreorcaptan 70%+ hexaconazole 5%WP @ 200-400g in 200 l of water /acre (second spray after 21 days interval ) or cymoxanil 8% + mancozeb 64% WP @ 600-800g in 200-300 l of water /acre (second spray after 10 days interval ) or famoxadone 16.6%+cymoxanil 22.1%SC @ 200ml in 200-300 l of water / acre (second spray after 27 days interval ) or fenamidone10%+ mancozeb 50% WDG @ 500- 600g in 200 l of water / acre (second spray after 30days interval) or metalaxyl M4%+mancozeb 64%WP@025%1Kg/acre in 200-400 l water (second spray after 24days interval) or metalaxyl 8%+ mancozeb 64% WP @ 025% 1Kg/ acrein 400 l water (second spray not less than 7 weeks ) or metiram 55% +pyraclostrobin 5%WG @600-700g in 200l water/acre (second spray after 15 days interval) orazoxystrobin 23% SC@ 200 ml in 200 l of water / acre or treat tuber with carbendazim 25% + mancozeb 50% WS @ (1.5 + 3.0) to (1.75 +3.5 )for 10 Kg seed (tuber).
+
+
+FUNGICIDE Amisulbrom 20% SC SINGLE PRODUCT FORMULATIONS USE 
+
+
+100  a. i. (g) @ 500  (g/ml)/% Formulation Dosage per hectare area  @ 375-500 (Litre)   Dilution in  water with Waiting period 19  days from last application to harvest (in days) .
+
+
+	VEGETATIVE AND TUBER DEVELOPMENT  STAGE
+	Nutrients
+	* Apply  2nd half of  N& K  at 30 days after planting after hoeing / weeding.
+	Plant growth regulators
+	* Apply mepiquatchloride 5%AS @1.25-1.5 l (mix 200-300 ml of products in 10 l of water) at 45 days after sowing to restrict the excessive vegetative growth of potato and increase its yield
+* Apply gibberellic acid 0.001%L @ 180ml in 450-500 l of water twice at 45 days after sowing and 65 days after sowing or Apply triacontanol 0.05%EC @0.50 l in  500-600 l of water twice at 30 and 45 days after sowing to enhance the yield
+	Weeds
+	* Hand tool weeding / hoeing along with earthing twice at 30 and 60 days after planting.
+* Pre-emergence application of oxyflourfen 23.5%EC @170-340ml in 200-300 l of water/acre
+* Post-emergence overall / inter-row application (at 5-10% emergence) of paraquatdichloride 24% SL@ 800ml in 200 l of water/acre or 2,4-D dimethylamine salt 58%SL@1.376l in160 l of water/acre.
+* Use mulch on ridges to suppress weed growth such as paddy straw ,maize or sorghum stalks or farm refuses.
+* In hilly regions, used local available materials such as pine needles or leaf litter as mulch for controlling weeds and reduce run off loss and conserving moisture.
+	Management
+	Activity
+	HARVESTING
+	Weeds
+	* Prior to harvesting /after harvesting left over weeds should be removed before shedding of their seeds to reduce the spread of weeds.
+	POST HARVEST AND STORAGE
+	
+
+	Cultural Control:
+* Physical damage must be avoided as it encourages post-harvest rots.
+* Before storage curing is effective and non-chemical control method can be done by exposing tubers for 5days at 15–20°C and 90-95%RH.
+* Maintain cold storage at 4 °C (39.2 °F) or slightly higher.
+* Maintain proper aeration in the storage.
+
+
+Plant growth regulator (PGR) :
+Antisprouting agent Chlorpropham 50% HN  for stocked potatoes under cold storage condition (Temp = 10+2oC  and R.H.= 90+5% ) 18-20 gm/MT  a.i. (PPM/gm/ %) Dosage /ha .Formulation is to be applied as such with fogging applicator 
+
+
+
+
+	Note: Pesticides dosages and spray fluid volume are based on sprayer.
+
+
+REFERENCES 
+1.https://www.alberta.ca/late-blight-of-potatoes-and-tomatoes.aspx#:~:text=What%20are%20the%20host%20crops,nightshade%20species%20and%20wild%20tomato.
+
+
+2https://bsppjournals.onlinelibrary.wiley.com/doi/full/10.1111/ppa.13125#:~:text=Phytophthora%20infestans%20has%20a%20broad,reported%20as%20hosts%20of%20P.
+3 https://byjus.com/biology/late-blight-of-potato/
+
+
+4 https://en.wikipedia.org/wiki/Phytophthora_infestans
+
+
+5 https://www.biologydiscussion.com/plant-pathology/late-blight-of-potato-with-diagram/64254
+6https://www.pau.edu/potato/lb_disease.php#:~:text=Late%20blight%20caused%20by%20the,as%2080%25%20in%20epidemic%20years.
+
+
+7 https://www.seedquest.com/News/releases/2008/february/21680.htm
+
+
+8. https://www.oneindia.com/india/potato-disease-late-blight-attack-worries-growers-state-govt-sends-team-to-3-districts-3018877.html?story=2
+
+
+9 https://www.intechopen.com/chapters/58251 Management of Late Blight of Potato WRITTEN BY Mehi Lal, Sanjeev Sharma, Saurabh Yadav and Santosh Kumar
+
+
+10http://www.nbpgr.ernet.in/Training_Management_PGR/Compendium/08_National_Plant_Quarantine_System_for_PGR_SC_Dubey.pdf
+
+
+11 https://ppqs.gov.in/sites/default/files/mup_of_fungicides_up_to_01.02.2023.pdf
+
+
+12 https://ppqs.gov.in/sites/default/files/mup_of_pgrs_up_to_01.02.2023.pdf

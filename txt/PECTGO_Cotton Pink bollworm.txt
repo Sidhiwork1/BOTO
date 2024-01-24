@@ -1,0 +1,69 @@
+﻿Questionnaire for Pink bollworm in cotton
+1) What is pink bollworm?
+Answer-The pink bollworm is a serious pest in many cotton-growing regions around the world. The pink bollworm is an insect that is known to attack and damage cotton plants which cause significant damage, reduced yields, and lower the quality of the cotton fiber.
+2)  What crop is affected by Pink Bollworm?
+Answer-Cotton.
+3) What is life cycle of pink bollworm?
+Answer-Adult Female Moth lays eggs,Egg hatches in 3-5 days, larval period last for 13-20 days, Pupation 8-10 days in the form of silky cocoon in the lint or within soil.
+4) Which stage of pink bollworm is most destructive?
+Answer-Larval Stage of pink bollworm is most destructive
+5.) At which Stage Pink bollworm affects Cotton?
+Answer-Square formation to Boll bursting stage
+6) How to identify the various stages of pink bollworm?
+Answer-Egg stage: Eggs are white, flattened, oval. Eggs are laid by female moth in singly or in groups on petioles or peduncles, the underside of young leaves, on buds or near calyx of the flower.
+Larval Stage: First two instars are white, while from third instar pink colour develops. The larvae have the characteristic dark brown head.
+Pupal Stage: Pupae are light brown when fresh, gradually become dark brown as the pupation proceeds. 
+Adult Stage: The adult female moth is greyish brown with blackish bands on the forewings and the hind wings are silvery grey. Moths emerge from pupae in the morning or in the evening, but are nocturnal, hiding amongst soil debris or cracks during the day.
+
+
+
+
+
+
+7) What is the colour of pink bollworm larvae?
+Answer-The pink bollworm larvae are generally whitish or yellowish in color when they first hatch. As they mature, they develop a pinkish hue, which gives them their name. The pink coloration becomes more prominent as the larvae feed on the cotton bolls and grow larger.
+8)How to identify Adult female moth of pink bollworm?
+Answer-Body is pale brown or gray color, with dark brown or black bands along the length of the abdomen. The female pink bollworm moth has a long, slender ovipositor located at the end of abdomen, that is used to lay eggs.
+9)What is damage symptom of pink bollworm at early flowering stage?
+Answer- Rosetted flower (improper opening of petals) is a damage symptom. Larva in flower bud spins webbing that prevents proper flower opening leading to “rosette flower”
+10)What is damage symptom of pink bollworm in outer portion of bolls?
+Answer-Entry holes:Larvae creates entry holes in the bolls and burrows inside to feed. Excreta observed at the point of bore holes by larval feeding.
+11)What is damage symptom of pink bollworm in inner portion of bolls?
+Answer-Interlocular boring and formation of double seeds. Discoloured lint and burrowed seeds.
+12) What is the difference between Pink bollworm and other bollworms?
+Answer-One of the most notable is its ability to feed inside cotton bolls, where it is protected from many insecticides and other control measures. Pink bollworm feeds only on cotton bolls, whereas other bollworms such as the cotton bollworm (Helicoverpa armigera) Spotted bollworms: Earias vittella, Spiny bollworm: Earias insulana can feed on a range of crops including cotton, Okra,  corn, soybean, and tobacco.
+13)How can farmers detect pink bollworm infestations early at field level?
+Answer-Scouting: Regular monitoring and scouting of cotton fields is essential to detect pink bollworm infestations early. Farmers can visually inspect the plants and look for signs of damage such as holes in bolls, webbing, or frass or excrement on the plants.
+Pheromone Traps: Farmers can set up pheromone traps with lure for pink bollworm to attract and capture adult male moths. By counting the number of moths caught in the traps, farmers can determine the level of infestation in their fields and take appropriate control measures.
+
+
+14) What are the IPM strategies to control Pink Bollworm?
+Answer-IPM approach that combines multiple control measures to manage pink bollworm infestations effectively while minimizing the environmental impact and reducing the risk of resistance development. It includes
+1. Cultural Control: Crop management practices, such as Deep summer ploughing of soil, crop rotation, planting early maturing varieties, and timely planting and harvesting can reduce the likelihood of pink bollworm infestations.
+2. Monitoring and mechanical control: Regular monitoring of cotton crops for pink bollworm infestations using pheromone traps with lure for pink bollworm, visual inspections of rosette flowers, damaged bolls, manual removal of damaged bolls that reduces early infestations.
+
+
+3. Biological Control: Conservation of natural enemies, Use of egg Parasitoids like Trichogramma spp. can be an effective control measure against pink bollworm. Trichogramma parasitoids may be released directly or Tricho-card can be pinned to the leaves of standing cotton plants in the fields for destroying the egg stage of pink bollworm.
+
+
+4. Genetic Control: The use of genetically modified cotton varieties that are resistant to pink bollworm can be an effective control measure.
+
+
+5. Sanitation: Removing and destroying previous year crop residues.
+
+
+6. Chemical Control:Should be followed as last resort when other IPM methodologies are ineffective. Central Insecticide Board and Registration Committee (CIB &RC) recommended Insecticides can be used to control pink bollworm infestations, but they should be used judiciously and in combination with other control measures to reduce the risk of resistance development.
+16) How to search Central Insecticide Board and Registration Committee recommended insecticides for pink bollworm?
+Answer-To search for Central Insecticide Board and Registration Committee recommended insecticides for pink bollworm, you can follow these steps:
+1. Go to google search type “PPQS”
+2. Click WebsiteDirectorate of Plant Protection, Quarantine & Storage(http://ppqs.gov.in/)
+3. In the Home page, go to Farmer Corner and click “Pesticide recommendation for Crops”
+4. Opens new window “major uses of pesticides”. In the list download “Major Uses of Pesticides (Insecticides) “
+
+5. Scroll down the document to find "Cotton" in the crop list or search for “pink bollworm”
+
+
+   6. View the list of recommended insecticides for its control. You can also find information about the recommended dosage per hectare, Dilution in water, and waiting period for each insecticide.
+
+
+It is important to note that these insecticides should be used according to the guidelines of recommended dosage, application method, and safety guidelines to minimize their impact on non-target organisms and the environment.

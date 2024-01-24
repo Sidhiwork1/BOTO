@@ -1,0 +1,126 @@
+﻿Proforma for of Pest/ Disease wise information for preparation of AL/ML tool
+Crop - Brinjal 
+Name of Pest:  Shoot and fruit borer: Leucinodes orbonalis
+Host Range: Brinjal, Potato, peas, other wild plants belonging to solanaceae,.
+Pest Distribution: West Bengal, Madhya Pradesh, Maharashtra, Uttar Pradesh, Telangana, Andaman & Nicobar, Assam, Gujarat, Chhattisgarh.
+
+
+Pest Identification features/Morphology/ Biology: 
+        Biology of brinjal shoot and fruit borer Like other members of the order Lepidoptera, life cycles of L. orbonalis includes four stages; eggs, larvae, pupa, and adult. Longest period of growth found for larval stage, followed by pupal stage and incubation period.
+Egg: The adult females lay eggs singly or in groups of two to five on the under surfaces of leaves, tender shoots, flower buds, or the base of developing fruits. Each female lays about 250 eggs, Eggs are oval or somewhat elongated in shape and creamy white in colour, turns to reddish with prominent black spot before hatching. The egg period is three to five days. The egg incubation period depends on temperature and varies between 3 to 5 days in summer and 7-8 days in winter and hatch into dark white.
+larvae: The larval period lasts 12 - 15 days during summer and 14 - 22 days during winter season. Larva passes through at least five instars before entering the pupal stage and there are reports of six larval instars existence also. Newly hatched larva is tiny, creamy or dirty white in colour with a prominent dark brown or light black head, three pairs of thoracic legs and five pairs of prolegs. Second instar larvae resembled the first instar larvae except larger in size and slightly darker colour. The third instar larvae were much longer and darker than the preceding instars, in which prothoracic shield had distinct markings, thoracic legs were dark brown in colour. Fourth instar was slightly pinkish in colour. Fifth instar was cylindrical in shape and pinkish brown in colour having three distict segments of thorax and five pairs of well-developed prolegs. The grown- up larva is pink with sparse hairs on the warts on the body and a dark brown or blackish head. The full-grown larva measures about 16-23 mm in length, also reported that average larval period lasted for 12.3 to 14.0 days. Caterpillars hibernate in the winter and pupate early in the spring. Pupal period ranging from 7 to 10 days and 6-8 days
+ C:\Users\IPM Division\Downloads\BR-FSB-RPR-001.jpeg 
+
+	 F:\Pics for AI-ML\Brinjal\Fruit & shhot Borer\BR-FSB-KOL-006.jpg 
+
+	Fig.1 Larvae Source:-CIPMC, Raipur
+	Fig 2 Larvae Source: RCIPMC, Kolkata
+	
+
+Pupa: The larva pupates on the plant parts or plant debris on the soil surface, or rarely, under the soil. Pupae are of dark brown in colour with wider cephalic lobe and narrow anal end with eight hook shaped fine spines at the posterior end of abdomen. The pupa measures about 13 mm. The pupal period varies from one to two weeks.
+Adult: Female moths are white in colour with blackish brown head and thorax having whitish
+wings with pinkish brown markings which are bigger on the forewings. Females were bigger in size, more in wing expanse and broader abdomen with rounded posterior end while the males were smaller in size, lesser in wing- expanse and narrow/slender abdomen which tapered posteriorly. Adults of L. orbonalis generally mate during night or early morning hours and it lasted for 43 minutes. The adult life span is about a week; the females live longer than males.
+ F:\Pics for AI-ML\Brinjal\Fruit & shhot Borer\BR-SFB-BBSR-003.jpeg 
+
+	Fig.3 Adult Source: CIPMC, Bhubaneshwar
+	
+
+Overwintering 
+        Research had suggested that if there is no brinjal crop in the field, the moth has nowhere to go, and most of them will die and a tiny fraction might fly to potato, if the crop is nearby. One of the more suitable hiding places is the leftover old plants after the last harvest. Sometimes, in the abandoned fields or unused empty areas or along the bunds, brinjal plants might remain along with other weeds. The pupae can remain in the soil, where the last brinjal crop was grown, for 2 or even 4 weeks during the winter. After this, the moth must come out, and if there are no brinjal plants around, these adults perish. The safest place is to hibernate among the dried brinjal plants stored by the farmers in the field or around their houses, to be used as fuel. The pupae seem to survive much longer among these dried stubbles than in the soil. In the next season, when the farmer plants his crop, the moths emerging from these pupae start the epidemic. If these hiding places are taken care of, the pest will have nowhere to go, and could easily be eliminated. 
+Source of infestation: - 
+        Starts in one or more of four ways: 
+1. In a newly planted crop, the moths can fly in from a neighbouring older or abandoned crop, and it is the most important one; since moths can fly, it is important that all farmers in a community work together. 
+2. The seedlings can sometimes carry the eggs or tiny larvae, especially if one uses slightly older seedlings raised in an open field near a damaged crop or the heaps of dried plant stubbles from the last season’s crop. 
+3. If the previous crop grown in the same field or a field nearby was also brinjal, the pupae from the previous crop, resting within the soil, will be the source. 
+4. If the old uprooted brinjal plants are stored nearby or discarded around, the pupae from underneath plant debris can develop into adults, which fly into and start a new infestation. The infestation through all these can be stopped if all the farmers in a community work together, as it will not only remove the threat, but also avoid the disadvantages of pesticides.
+Symptoms of damage: 
+        It is mostly monophagous, sometimes also feeds on potato, Solanum indicum L., S. xanthocarpum, S. torvum, and S. nigrum. Upon hatching, the larva starts boring near the growing point or into the flower buds or fruits. During the early vegetative phase of the crop growth, it feeds on the tender shoots. Soon after boring into the shoots and fruits, the larva seals the entry hole with excreta. The larva tunnels inside the shoot and feeds on the inner contents. It also fills the feeding tunnels with excreta. This results in wilting of young shoots, followed by drying and drop off, which slows plant growth. In addition, it produces new shoots, delaying crop maturity.
+        During the early reproductive phase, the larva occasionally may feed on flower buds and flowers. However, it prefers to feed on the fruit rather than other plant parts during the fruiting stage of the crop. Damaged fruit exhibits boreholes on the surface, which often are sealed with excreta. The larva feeding inside the fruit creates tunnels filled with frass and fecal pellets. Hence, the fruit becomes unfit for marketing and consumption. Under heavy infestation, more than one larva will feed inside the same fruit.
+ F:\Pics for AI-ML\Brinjal\Fruit & shhot Borer\BR-BFSB-TRY-003.jpg 
+
+	 F:\Pics for AI-ML\Brinjal\Fruit & shhot Borer\BR-FSB-GKP-005.jpeg 
+
+	Fig.4 Shoot drooping Source: CIPMC, Trichy
+	Fig.5 Fruit damage 
+Source: CIPMC Gorakhpur
+	 F:\Pics for AI-ML\Brinjal\Fruit & shhot Borer\BR-FSB-GKP-001.jpeg 
+
+	 F:\Pics for AI-ML\Brinjal\Fruit & shhot Borer\BR-FSB-GKP-002.jpeg 
+
+	Fig.6 Shoot damage
+Source CIPMC, Gorakhpur
+	Fig.7 Shoot damage
+Source CIPMC, Gorakhpur
+	
+
+ETL Levels: At various crop stages (Don’t depict in table & mention in running matter)
+ETL: 1-5% of fruit damage.
+Favourable Conditions of Pest: 
+        Brinjal shoot and fruit borer completes its life cycle in 19.0 to 43.0 days. L. orbonalis is active throughout the year at places having moderate climate but its activity is adversely affected by severe cold. There are five overlapping generations in a year.
+Management Practices: 
+Monitoring:
+* Observe burrows in the petiole and tender shoots. Later drooping of leaves and shedding of flower buds.
+* Start monitoring for borers at the vegetative stage
+* Observe for bore holes in the fruits.
+* Observe crops for small exit holes below the calyx of fruits and the presence of larvae inside damaged fruit and shoots.
+* Adult moth wingspan between 18-24 mm, with white wings and characteristic brown 'heart' patterns.
+* Observe the egg on the tender shoots which are creamy white soon after laying, but turn red before hatching.
+* Larvae are reddish-translucent in colour and can grow up to 15 mm long.
+* Follow control actions if 2% of plants or a minimum of 1% of fruit show symptoms.
+Vegetative stage
+Cultural control:
+* Continuous cropping of brinjal and potato in the same area encourages the pest activity and hence proper rotation should be followed.
+* Collect and destroy (burn or bury) all crop residues from the previous season.
+* Adjust the time of transplanting at fourth week of June.
+* Use healthy, pest-free seedlings.
+* Raise seedlings far away from sources of infestation (old eggplant fields, eggplant stubble).
+* Use resistant varieties like Pusa Purple Round, Brinjal Long green, Pusa purple cluster, Brinjal round white and Annamalai.
+* Use tolerant varieties; round-shaped fruit bearing varieties have a higher tolerance to borer pest (e.g. Pusa purple round).
+* Grow seedlings under nylon netting to prevent moths from laying eggs on the plants.
+* Establish maize trap barriers around eggplant plots 15 days before eggplant transplanting.
+* Soil application of Neem cake @ 25 gms per plant 45 days after transplanting.
+* Intercropping of brinjal (2 rows) with coriander (one row) or fennel (1 row).
+* Conserve natural enemies by avoiding broad spectrum insecticides and providing suitable habitat.
+Mechanical Control:
+* Install pheromone traps @ 4-5/acre for monitoring and 10/acre for mass trapping at 10 m distance from 20 DAT, the pheromone lure should be changed at regular interval. Place the traps either at canopy level or at slightly above the canopy level for effective attraction
+* Promptly remove and destroy infested shoots and fruit at regular intervals until final harvest. Stage wise management practices to be shown 
+* Install one light trap (200W mercury vapour lamp) per hectare between 7-9 pm to catch the adults
+Biological control:
+* Release Trichogramma chilonis at 20,000/ acre/week commencing from 21 days after transplanting (based on adult activity) till end of the crop. Trichocards should be tied to sticks placed at 4-5 m apart in the field in the evening prior to 1 day of parasitoid adult emergence
+* Conserve predators such as Campyloneura sp (a bug), Cheilomenes sexmaculata (a ladybird beetle), Coccinella septempunctata (seven spotted ladybird beetle), Brumoides suturalis (three striped ladybird), C. carnea (lacewing)
+* Conserve parasitoids such as Pseudoperichaeta sp (tachinid fly) Phanerotoma sp, Itamoplex sp, Eriborus argenteopilosus, Diadegma apostate, Pristomerus testaceus, Trathala flavo-rorbitalis, Bracon greeni
+* Spray azadirachtin 1% EC (10000 ppm) neem based EC @ 400-600 ml in 400 l of water/acre or azadirachtin 0.03% (300 ppm) neem oil based WSP @ 1000-2000 ml in 200-400 l of water/acre
+* Spray NSKE 5%
+Chemical control:
+* Spray Emamectin benzoate 5% SG @ 80 g in 200 lit. of water/acre 
+OR
+Thiodicarb 75% WP @ 250-400 g in 200 lit. of water/acre 
+OR
+Chlorantraniliprole 18.5% SC @ 80 ml in 200-300 lit. of water/acre 
+OR
+Thiacloprid 21.7% SC @ 300 ml in 200 lit. of water/acre
+ OR
+Fenvalerate 20% EC @ 150- 200 ml in 240- 320 lit.of water/acre 
+OR
+ Fenpropathrin 30% EC @ 100-136 ml in 300-400 lit. of water/acre 
+OR
+ Lambda cyhalothrin 4.9% CS @ 120 ml in 200 lit. of water/acre 
+OR
+ Lambda cyhalothrin 5% EC @ 120 ml in 160- 240 lit. of water/acre 
+OR
+Cypermethrin 10 % EC @ 220-304 ml in 60-160 lit. of water/ acre 
+OR
+Cypermethrin 25 % EC @ 60-80 ml in 200 lit.of water/ acre 
+OR
+Cypermethrin 0.25% DP @ 8,000- 9,600 g/acre 
+OR
+Chlorpyrifos 20% EC @ 200 ml in 200-400 lit. of water/acre 
+OR
+Phosalone 35% EC @ 571.2 in 200-400 lit. of water/ acre 
+OR
+Betacyfluthrin 8.49% + imidacloprid 19.81% OD @ 70-80 ml in 200 lit. of water/acre 
+OR
+OR
+Pyriproxyfen 5% + fenpropathrin 15% EC @ 200- 300 ml in 200-300 l of water/acre
+ OR
+Fluxametamide 10% w/w EC400ml/500 L water/ha.

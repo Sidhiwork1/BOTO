@@ -1,0 +1,97 @@
+﻿Proforma for of Pest/ Disease wise information for preparation of AL/ML tool
+Crop-Maize
+Name of Pest:  Fall armyworm: Spodoptera frugiperda
+Host Range: Maize, Rice, Sorghum, Cotton, Sugarcane etc.
+Pest Distribution: Karnataka, Andhra Pradesh, Tamil  Nadu, Maharashtra, Rajasthan, Madhya Pradesh, Uttar Pradesh, Bihar.
+
+
+Pest Identification features/Morphology/Biology: 
+
+
+Life stages of FAW
+The life cycle FAW is completed in about 30 days during the summer, but 60 days in the spring and autumn, and 80 to 90 days during the winter. The ability to diapause is not present in this species.
+Egg
+The egg is dome shaped; the base is flattened and the egg curves upward to a broadly rounded point at the apex. The number of eggs per mass varies considerably but is often 100 to 200, and total egg
+production per female averages about 1500 with a maximum of over 2000. The eggs are sometimes deposited in layers, but most eggs are spread over a single layer attached to foliage. The female also deposits a layer of grayish scales between the eggs and over the egg mass, imparting a furry or moldy appearance. Duration of the egg stage is only two to three days during the summer months.
+Fig: 1 Larva feeding on leaves  WhatsApp Image 2023-04-08 at 3.09.23 PM.jpeg 
+ WhatsApp Image 2023-04-06 at 5.57.04 PM.jpeg 
+
+Fig: 2  Damaged Plat with Larval Excreta
+Larva
+There are six instars in fall armyworm. Young larvae are greenish with a black head, the head turning orangish in the second instar. In the third instar, the dorsal surface of the body becomes brownish, and lateral white lines begin to form. In the fourth to the sixth instars the head is reddish brown, mottled with white, and the brownish body bears white sub-dorsal and lateral lines. Elevated spots occur dorsally on the body; they are usually dark in colour, and bear spines. The presence of four black spots arranged in square shape on dorsal aspect of the penultimate abdominal segment is another important mark to differentiate it from other cutworms. The face of the mature larva is also marked with a white inverted "Y". Duration of the larval stage tends to be about 14 days during the summer and 30 days during cool weather.
+ WhatsApp Image 2023-04-08 at 3.12.03 PM.jpeg 
+  WhatsApp Image 2023-04-08 at 3.09.42 PM.jpeg 
+Fig :3 Larva                                                Fig:4 Larva
+ WhatsApp Image 2023-04-08 at 3.09.23 PM (1).jpeg 
+
+Fig:5 Larva feeding on Grains
+Pupa
+Pupation normally takes place in the soil, at a depth 2 to 8 cm. The larva constructs a loose cocoon, oval in shape by tying together particles of soil with silk. If the soil is too hard, larvae may web together leaf debris and other material to form a cocoon on the soil surface. The pupa is reddish brown in color. Duration of the pupal stage is about eight to nine days during the summer, but reaches 20 to 30 days during the winter.
+Adult
+In the male moth, the forewing generally is shaded gray and brown, with triangular white spots at the tip and near the center of the wing. The forewings of females are less distinctly marked, ranging from a uniform grayish brown to a fine mottling of gray and brown. The hind wing is iridescent silver-white with a narrow dark border in both sexes. Adults are nocturnal, and are most active during warm, humid  evenings. After a preoviposition period of three to four days, the female normally deposits most of her eggs during the first four to five days of life, but some oviposition occurs for up to three weeks. Duration of adult life is estimated to average about 10 days, with a range of about seven to 21 days.
+
+
+Nature and symptom of damage
+Young larvae initially consume leaf tissue from one side, leaving the opposite epidermal layer intact. By the second or third instar, larvae begin to make holes in leaves, and eat from the edge of the leaves inward. Feeding in the whorl of corn often produces a characteristic row of perforations in the leaves (shot holes). Larval densities are usually reduced to one to two per plant when larvae feed in close proximity to one another, due to cannibalistic behaviour. Older larvae cause extensive defoliation, often leaving only the ribs and stalks of maize plants, or a ragged, torn appearance. The early whorl stage is least sensitive to injury, the mid-whorl stage intermediate, and the late whorl stage is most sensitive to injury. The mean densities of 0.2 to 0.8 larvae per plant during the late whorl stage could reduce yield by 5 to 20 percent. 
+Larvae also will burrow into the growing point (bud, whorl, etc.), destroying the growth potential of plants, or clipping the leaves. In maize, they sometimes burrow into the ear, feeding on kernels. The FAW feeds by burrowing through the husk on the side of the ear . WhatsApp Image 2023-04-06 at 5.57.03 PM.jpeg 
+Fig: 6 Damged Plant
+ WhatsApp Image 2023-04-06 at 5.57.02 PM.jpeg 
+
+
+
+Fig: 7 Damaged plant
+Damage potential
+Fall armyworm has caused extensive damage to crops, especially maize, which is very critical for the animal feed industry and also crops such as sugarcane and millets. Consequently, India is forced to import maize for feed and starch industries, which together consume nearly 80 percent of the domestic production. Due to the FAW infestation and unfavourable weather, maize production fell by about 15-20 percent. As a result, prices have shot up turning the economics of the fast-growing feed industry unviable. This pest can cause substantial harm to the harvest and eventually, profitability of the farmers. Ultimately, rise in raw material prices will push the prices of meat, egg and milk up and will negatively impact the consumers.
+
+
+Economic threshold
+On maize, if 5% of seedlings are cut or 20% of whorls of small plants (during the first 30 days) are infested, it is recommended that an insecticide be applied. In sorghum, the pest threshold level is as one (or two) larvae per leaf whorl and two per head.
+
+
+
+
+Fall army worm management
+1. Preventive Method
+1. Monitoring
+* Installation of pheromone traps @ 5/acre in the current and potential area of spread in crop season and off-season.
+2. Scouting 
+* Start scouting as soon as maize seedlings emerge 
+* At Seedling to early whorl stage (3-4 Weeks after emergence)- Action can be taken if 5% plants are damaged
+* At Mid whorl to late whorl stage (5-7 weeks after emergence) –Action can be taken if 10 % whorls are freshly damaged in mid whorl stage and 20% whorl damage in late whorl stage 
+* At tasseling and post tasseling (Silking stage)- Do not spray chemical insecticides. Suitable bio-pesticide may be used in the event of ear/cob damage
+3. Cultural control
+* Summer ploughing in deep to expose pupae of FAW to predatory birds, heat etc.
+* Control is largely achieved in the northern and central India through a winter kill by exposing larvae and pupae within the upper soil surface. Freezing temperatures cause high larval mortality
+* Clean and weed free cultivation to destroy the alternate hosts and balanced use of fertilizers
+* Dig trench around the field and fill with water and insecticide to avoid migration of FAW larvae from one to another field
+* Early, synchronized sowing of maize to reduce the availability of crop for increase of population of FAW and further outbreak. Avoid staggered sowings
+* Intercropping of maize with suitable pulse crops of particular region. (eg.Maize + pigeon pea/black gram /green gram)
+* Sowing of 3-4 rows of trap crops (eg. Napier ) around maize field and spray with 5% NSKE or azadirachtin 1500 ppm as soon as the trap crop shows symptom of FAW damage
+* Apply charcoal, soil, ash, local plant extract on the whorl of maize,as an ITK method
+* Cultivation of maize hybrids with tight husk cover will reduce ear damage by FAW
+4. Mechanical control
+* Hand picking and destruction of egg masses and neonate larvae in mass by crushing or immersing in kerosine water
+* Application of dry sand in to the whorl of affected maize plants soon after observation of FAW incidence in the field
+* Application of Sand + lime in 9:1 ration in whorls in first thirty days of sowing
+* Mass trapping of male moths using FAW specific pheromone traps @ 15/acre
+5. Traps
+* Spread blue cloth measuring 2 m in places randomly in an acre area to attract and kill the larvae 
+* Install FAW pheromone trap @ 5 numbers/ac and light trap @ 1 number/ha at early stage of crop
+2. Curative Methods
+ Biological control
+* In situ protection of natural enemies by habitat management: Increase the plant diversity by intercropping with pulses, oil seeds and ornamental flowering plants which help in build-up of natural enemies
+* Augmentative release of egg parasitoid Trichogramma pretiosum or Telenomusremus @ 50,000 per acre at weekly intervals or based on trap catch of 3 moths/trap
+* Bio-pesticides: If infestation level is at 5% damage in seedling to early whorl stage and 10% ear damage, then use following entomopathogenic fungi and bacteria: Metarhizium anisopliae, 8 Nomuraearileyi, Beauveriabassiana, Verticiliumlecani (1 × 10 cfu/g) @ 5g/litre whorl application. Repeat after 10 days if required
+* Bacillus thuringiensis var. kurstaki formulations @ 2g/l (or) 400g/acre
+* Apply Azhadirachtin 1% EC @ 10,000 ppm or neem oil @ 5 mL/lit. as oviposition deterrent on one week after sowing
+* Bio-pesticides: If infestation level is at 5% damage in seedling to early whorl stage and 10% ear damage, then use following entomopathogenic fungi and bacteria: Metarhizium anisopliae, 8 Nomuraearileyi, Beauveriabassiana, Verticiliumlecani (1 × 10 cfu/g) @ 5g/litre whorl application. Repeat after 10 days if required
+* Bacillus thuringiensis var. kurstaki formulations @ 2g/l (or) 400g/acre 
+* Apply Azhadirachtin 1% EC @ 10,000 ppm or neem oil @ 5 mL/lit. as oviposition deterrent on one week after sowing
+* Erect bird perch @ 25-50 numbers/ha to attract predatory birds during early stage of the crop (up to 30 days) on feeding various larval stages of FAW
+II. Chemical control
+* Seed treatment: Cyantraniliprole 19.8% + Thiamethoxam 19.8% FS @ 6 ml/kg of seed will be effective for 15-20 days
+* First Window (seedling to early whorl stage): To control FAW larvae at 5% damage to reduce hatchability of freshly laid eggs, spray 5% NSKE /Azadirachtin 1500ppm @ 5ml/l of water
+* Second window (mid whorl to late whorl stage): To manage 2nd rd and 3 instars larvae having more than 10% foliar damage the following chemicals may be used upto early tasselling stage: Spinetoram 11.7% SC or Chlorantraniliprole 18.5% SC or Thiamethoxam 12.6% + Lambda cyhalothrin 9.5% ZC
+* Poison baiting: Poison baiting is recommended for late instar larvae of second window. Keep the mixture of 10 kg rice bran + 2 kg jaggery with 2-3 litres of water for 24 hours to ferment. Add 100g Thiodicarb just half an hour before application in the field. The bait should be applied into the whorl of the plants
+* Third Window (8 weeks after emergence to tasseling and post tasseling): Insecticide management is not cost effective at this stage. Bio-pesticides as recommended above to be applied. Hand picking of the larvae is advisable
+* All the sprays should be directed towards whorl and either in the early hours of the day or in the evening time

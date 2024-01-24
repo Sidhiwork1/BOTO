@@ -1,0 +1,60 @@
+{
+    "contexts" : [
+        {
+            "contextName": "ALEDRU_Coconut RSW",
+            "contextPath": "data/ALEDRU_Coconut RSW.pdf"
+        },
+        {
+            "contextName": "BEMITA_Cotton Whitefly",
+            "contextPath": "data/BEMITA_Cotton Whitefly.pdf"
+        },
+        {
+            "contextName": "DACUDO_Mango Fruit fly",
+            "contextPath": "data/DACUDO_Mango Fruit fly.pdf"
+        },
+        {
+            "contextName": "GLOMTU_Sugarcane Red Rot",
+            "contextPath": "data/GLOMTU_Sugarcane Red Rot"
+        },
+        {
+            "contextName": "LAPHFR_Maize FAW",
+            "contextPath": "data/LAPHFR_Maize FAW"
+        },
+        {
+            "contextName": "LEUIOR_Brinjal Shoot and Fruit borer",
+            "contextPath": "data/LEUIOR_Brinjal Shoot and Fruit borer"
+        },
+        {
+            "contextName": "NILALU_Rice BPH",
+            "contextPath": "data/NILALU_Rice BPH"
+        },
+        {
+            "contextName": "PECTGO_Cotton Pink bollworm",
+            "contextPath": "data/PECTGO_Cotton Pink bollworm"
+        },
+        {
+            "contextName": "PHYTIN_Potato Late blight",
+            "contextPath": "data/PHYTIN_Potato Late blight"
+        },
+        {
+            "contextName": "PUCCSI_Wheat yellow stem rust",
+            "contextPath": "data/PUCCSI_Wheat yellow stem rust"
+        },
+        {
+            "contextName": "PYRIOR_Rice Blast",
+            "contextPath": "data/PYRIOR_Rice Blast"
+        },
+        {
+            "contextName": "SCHOBI_Rice Yellow stem borer",
+            "contextPath": "data/SCHOBI_Rice Yellow stem borer"
+        },
+        {
+            "contextName": "SCIPAU_Sugarcane top shoot borer",
+            "contextPath": "data/SCIPAU_Sugarcane top shoot borer"
+        },
+        {
+            "contextName": "THRIPV_Chilli Thrips",
+            "contextPath": "data/THRIPV_Chilli Thrips"
+        }
+    ]
+  }

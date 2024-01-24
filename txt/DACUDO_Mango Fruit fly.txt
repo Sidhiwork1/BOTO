@@ -1,0 +1,36 @@
+﻿Proforma for of Pest/ Disease wise information for preparation of AL/ML tool
+Mango 
+Name of Pest: Mango Fruit fly -  Bactrocera dorsalis Hendel (Diptera: Tephritidae) 
+
+
+Host Range: Apple (Malus domestica), guava (Psidium guajava), mango (Mangifera indica), peach (Prunus Persica), pear (Pyrus communis), banana (Musa x paradisiacal), carambola (Averrhoa carambola), chili pepper (Capsicum annuum), orange (Citrus sp), papaya (Carica papaya), plum (Prunus domestica), sugar apple (Annona squamosa), tomato (Lycopersicon esculentum), wax apple (Syzygium samarangense), wampi (Clausena lansium), apricot (Prunus armeniaca), date plum (Diospyros lotus), Watermelon (Citrullus lanatus), sapote (Pouteris sapote), watery rose apple (S. aqueum), avocado (Persea americana) Pomelo (Citrus grandis), Mandarin (Citrus reticulata), citron (Citrus medica).
+Pest Distribution: Throughout. endemic to Southeast Asia. North America: Out breaks in California eradicated. Pacific Ocean: Guam since 1947 and Hawaiian Islands since about 1945. An outbreak on Rota, Mariana Islands was eradicated. Oriental Asia: Bhutan, Southern China, Northern India, Myanmar, and Northern Thailand.
+Pest Identification features/Morphology
+
+
+Eggs: The eggs of B. dorsalis were elliptical, smooth, elongated, slightly curved and tapering at one end. The posterior end is broadly rounded and the anterior end was found to be pointed and shiny white in colour and turned dark brown colour as they nearer to the hatching. Morphometric observations: eggs measured about 1.36±0.12 mm in length and 0.25±0.13 mm in width. 
+
+
+Larvae:  The matured maggots were cylindrical, apodous, frugivorous with an elongated body, pointed anteriorly or cephalic end and blunt posteriorly. The black coloured mouth hooks were retractile and extended outside the body at the time of feeding, the freshly hatched maggot was pale white in colour with translucent body and later instars are turn to brownish yellow in colour. 
+
+
+Pupae: The pupation of B. dorsalis occurs in the moist sand. The pupae were segmented, barrel shaped or cylindrical and yellowish white to deep brownish yellow when freshly formed. Later on, the colour changed into light brown to brownish grey with 11 distinct segments. Morphometric measurements of pupae are about 4.08±0.5 mm in length and 1.82±0.69 mm in width. 
+
+
+Life Cycle & Biology: Development from egg to adult under summer conditions requires about 16 days. The mature larva emerges from the fruit, drops to the ground, and forms a tan to dark brown puparium. Pupation occurs in the soil. About nine days are required for attainment of sexual maturity after the adult fly emerges. The developmental periods may be extended considerably by cool weather. Under optimum conditions, a female can lay more than 3,000 eggs during her lifetime, but under field conditions from 1,200 to 1,500 eggs per female is considered to be the usual production. Apparently, ripe fruit are preferred for oviposition, but immature ones may also be attacked. 
+
+
+Symptoms of damage: The female punctures outer wall of mature fruits with the help of its pointed ovipositor and insert eggs in small clusters inside mesocarp of mature fruits. On hatching, the maggots feed on fruit pulp and the infested fruits start rotting due to further secondary infection. Mango fruit flies distributed all over mango growing areas.
+
+
+Favourable Conditions of Pest: Warm temperate climate with dry winter - Warm temperate climate with dry winter (Warm average temp. > 10°C, Cold average temp. > 0°C, dry winters). Warm temperate climate, wet all year - Warm average temp. > 10°C, Cold average temp. > 0°C, wet all year. Tropical wet and dry savanna climate - < 60mm precipitation driest month (in winter) and < (100 - [total annual precipitation{mm}/25]) 
+Management Practices: 
+
+
+* Deep ploughing of orchard immediately after harvest to expose eggs and pupae. 
+* Early harvesting of mature fruits to avoid fruit fly infestation. 
+* Fruit fly infestation begins 45- 60 days prior to harvest. Initial breeding of the fruit flies takes place in fallen fruits. So, collect and destroy by deep burying (at least 2 feet) all fallen fruits at weekly interval, from two months prior to harvest.
+* Place fruit fly traps, developed with the know-how of IIHR @ 15-20 per hectare. Before placing the traps in the field add 5 drops of Deltamethrin or Chlorpyrifos on the plywood pieces impregnated with pheromone. Traps should be fastened well on lower branches, between 2 meter height, at least 30 days prior to harvest or earlier. Traps should be kept in shade, to enhance their life. After 12- 15 days of trap placement, apply again 5 drops of Spinosad or Malathion on the plywood using ink filler to reactivate the trap. Replace the used plywood with fresh plywood lure every 3-4 weeks, if harvest is prolonged, or if there are late varieties like Neelum still in fruiting. If trap is full, count and empty the dead flies.
+* If trap monitoring shows more than 5 flies/day/trap, there is a need to give three bait splashes on trunk, starting 3 weeks prior to harvest. To prepare bait splash, mix 100 gm of jaggery in one litre of water and add 1 ml of deltamethrin by using an old broom.
+* Bag with cloth lined covers 3 weeks prior to harvest to prevent infestation
+* Postharvest disinfestation (within 24 hours of harvest/after desapping) in water at 47 ºC±1 for 75 – 90 min.

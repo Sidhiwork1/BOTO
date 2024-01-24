@@ -1,0 +1,66 @@
+﻿Proforma for of Pest/ Disease wise information for preparation of AL/ML tool
+CROP- SUGARCANE
+Name of Pest:  Red rot (Fungus – Colletotrichum fulcatum)
+Host Range: Sugarcane, other Saccharum species, maize and sorghum, and wild sorghum (Sorghum halepense).
+
+
+Pest Distribution: Uttarakhand, Haryana, Uttar Pradesh, Punjab, Odisha, West Bengal, Bihar
+Pest Identification features/Morphology: 
+Symptoms of damage: 
+
+
+Symptoms & Life Cycle
+Stems show large red blotches on the outside and internal red rots with white patches, when the stems are cut open. Cavities may be present which contain the cottony growth of the fungus. The leaves turn yellow, dry and die. As the rots develop, the stems are easily broken. Stems are infected through the nodes (where the leaf buds and roots develop) and through wounds.
+On the leaves, small red oval spots occur on the midrib and upper surface of the leaf; these develop pale yellow to white centres, sometimes merging to cover the length of the leaf.
+Spread of the fungus occurs in planting material, and this can be over both short and long distances. Spread also occurs as spores produced on infected plants, water-splashed to those nearby. The fungus can survive for a few months in the soil, on plant debris and in sugarcane stems. Infection of the stems occurs through direct penetration of the nodes (buds, leaf scars or roots), from the fungus in the soil or in rain/irrigation water.
+ F:\Pics for AI-ML\Sugarcane Red Rot\SU-RDR-KOL-001.JPG 
+
+	 F:\Pics for AI-ML\Sugarcane Red Rot\SU-RDR-KOL-002.JPG 
+
+	Fig.1 Source: RCIPMC Kolkata
+	Fig.2 Source: RCIPMC Kolkata
+	 F:\Pics for AI-ML\Sugarcane Red Rot\SU-RDR-KOL-003.JPG 
+
+	 F:\Pics for AI-ML\Sugarcane Red Rot\SU-RDR-KOL-004.JPG 
+
+	Fig.3 Source: RCIPMC Kolkata
+	Fig.4 Source: RCIPMC Kolkata
+	 F:\Pics for AI-ML\Sugarcane Red Rot\SU-RDR-KOL-006.jpg 
+
+	 F:\Pics for AI-ML\Sugarcane Red Rot\SU-RR-BBSR-002.jpg 
+
+	Fig.5 Source: RCIPMC Kolkata
+	Fig.6 Source: CIPMC Bhubaneshwar
+	
+
+Mode of Survival & Spread:
+The disease is seed borne and spreads through infected setts. The pathogen also survives in soil in the form of conidia or chlamyadospore for specific period. Ratooning of diseases crop is also another method of disease survival and recurrence. Conidia after dispersal in soil are disseminated by irrigation water in the field anbd cause secondary infection. Conidia also dispersed by rainwater, insects and air
+
+
+
+
+Favourable Conditions of Pathogen: 
+Cool, wet weather, heavy soils, and continuous planting of the same variety in the same land favour the disease. Drought also increases susceptibility to the disease.
+Impact
+The fungus attacks setts in the soil, causing them to rot as they sprout, and it also infects the standing crop causing plants to wilt and shrivel. In addition to the loss of plants, there is a reduction of sucrose content in those that are affected by rots. Severe losses in yield of cane.
+Detection & inspection
+Look for red blotches on the stems and elongated spots in the midribs on the top surface of leaves. Look for white spots or blotches in the pith which are usually elongated at right angles to the long axis of the stem; these are diagnostic for this disease.
+
+
+Management
+CULTURAL CONTROL
+Before planting:
+* Use healthy setts; take planting material from fields where the disease has not been seen.
+* Plant when either wet or dry times will be avoided.
+* If growers have only a small number of setts, treat with hot water at 50°C for 2 hours; obviously, this is not an appropriate method for large amounts of planting material.
+* Avoid heavy soils which have a tendency to become waterlogged. Red rot is reported to be worse where poor drainage and infection by Pythium (an oomycete) occur together.
+* Treat sets with hot water @ 54oC for 2.5 hour before planting
+After harvest:
+* Collect the remains of the crop and burn it.
+* Do not ratoon diseased crops, otherwise the fungus may increase to an epidemic.
+* Plough the field several times to expose the fungus to sunlight.
+* Do not plant one crop of sugarcane after another in the same land; use a rotation of at least 2-years.
+RESISTANT VARIETIES
+Use resistant varieties as per recommendations of SAU/ICAR
+CHEMICAL CONTROL
+Use Azoxystrobin 18.2% + Difenoconazole 11.4% w/w SC @ 0.1% or 1 ml / Litre water

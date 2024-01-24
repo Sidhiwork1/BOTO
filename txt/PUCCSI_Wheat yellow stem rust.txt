@@ -1,0 +1,48 @@
+﻿Proforma for of Pest/ Disease wise information for preparation of AL/ML tool
+Crop- Wheat
+Name of Disease:  Yellow or stripe rust
+Causal Organism:-Pucciniastriiformisf.sp. tritici
+Host Range: Wheat
+Disease Distribution: All the wheat growing states like Punjab, Haryana, Himachal Pradesh, the tarai region of Uttarkhand, Uttar Pradesh and the low lying areas of Jammu and Kashmir are susceptible to the disease.
+Pathogen Etiology, Life cycle & Biology: 
+
+
+Life cycle:
+Pucciniastriiformis is most likely a hemiform rust in that the life cycle seems only to consist of the uredinial and telial stages. Uredia develop in narrow, yellow, linear stripes mainly on leaves and spikelets. When the heads are infected, the pustules appear on the inner surfaces of glumes and lemmas. The urediniospores are yellow to orange in colour, more or less spherical, echinulate and 28 to 34 µm in diameter. Teliospores are dark brown, two-celled and similar in size and shape to those of P. triticina. Stripe rust populations can exist, change in virulence and result in epidemics independent of an alternate host. Urediniospores are the only known source of inoculum for wheat, and they germinate and infect at cooler temperatures.
+
+
+Symptoms of disease: 
+* Initially, symptoms are yellowish flecks on leaves. 
+* On susceptible varieties, pustules containing yellow-orange spores erupt from leaves.
+* Pustules are clustered on seedling leaves, while pustules on mature leaves occur in a linear, stripe-like pattern.
+* Later in the season, yellow-orange fungal spores turn black and remain attached to leaf tissue. 
+* Symptoms can be present from seedling stages through ripening. Stripe rust pustules form a noticeable striped pattern on mature leaves and are more yellow than stem rust spores. 
+*  The teliospores are also arranged in long stripes and are dull black in colour.
+ F:\IPM 2023-24\NPSS\AI-ML POP\15 Pest Photographs\Yellow Rust of Wheat\WH-YR-FBD-010.jpeg 
+ F:\IPM 2023-24\NPSS\AI-ML POP\15 Pest Photographs\Yellow Rust of Wheat\WH-YR-FBD-008.jpeg 
+ C:\Users\hp\Downloads\WhatsApp Image 2023-04-05 at 12.55.30.jpeg 
+
+
+
+  
+  
+  
+  
+
+Mode of Survival & Spread: 
+The inoculum survives in the form of uredospores /teliospores in the northern hills during off season on self sown crop or volunteer hosts, which provide an excellent source of inoculums Primary infections are caused by wind-borne urediospores that may have travelled long distances from hills
+Favourable Conditions of Pathogen: 
+Pucciniastriiformis has the lowest temperature requirements of the three wheat rust pathogens. Minimum, optimum and maximum temperatures for stripe rust infection are 0°, 11° and 23°C, respectively. Pucciniastriiformis frequently can actively overwinter on autumn-sown wheat.The disease may develop rapidly when free moisture (rain or dew) occurs and temperatures range between 10-20°C.At temperatures above 25°C,the production of urediospores is reduced or ceases and black teliospores are often produced.
+Management Practices:  
+Cultural control: 
+* Follow mixed cropping and crop rotation 
+* The most effective, and the only practical, means of control of wheat stem rust is through the use of wheat varieties resistant to infection by the pathogen 
+* Eradication of barberry has reduced losses from stem rust by eliminating the early season infections on wheat in areas where uredospores cannot overwinter, and by reducing the opportunity for the development of new races of the stem rust fungus through genetic recombination on barberry 
+* Damage by the stem rust fungus is usually lower in fields in which heavy fertilization with nitrate forms of nitrogen and dense seeding have been avoided
+Chemical Control:
+For management of yellow rust of wheat 
+Spray Propiconazole 25% EC @ 500gm in 750 litre of water/ha
+or SprayTriadimefon 25%WP @ 1kg in 750 litre of water/ha
+or spray Azoxystrobin 11% + Tebuconazole 18.3% w/w SC @ 750ml in 500 litre of water/ha
+or sprayAzoxystrobin 7.1% + Propiconazole 11.9% w/w SE @  750ml in 500 litre of water/ha
+or spray Pyraclostrobin 133 g/l + Epoxiconazole 50g/l SE @ 750ml in 500 litre of water/ha

@@ -1,0 +1,97 @@
+﻿Crop- Rice
+Name of Pest: Yellow stem borer (Scirpophaga incertulas)
+Host Range: Rice (Oryza sativa), Cyperus rotundus and Cynodon dactylon.
+Pest Distribution: Uttar Pradesh, Bihar, Punjab, Haryana, West Bengal, Odisha, Andhra Pradesh, Tamil Nadu, Karnataka, Gujarat, Maharashtra, Chattisgarh, Asam, Madhya Pradesh, Kerala.
+Pest Identification features/Morphology: 
+Eggs:  Eggs are creamy white, flattened, oval and scale like and laid in mass and covered with buff coloured hairs.
+Larva: Pale yellow with dark brown head.
+Pupa: White silken cocoon are found inside the stem.
+Adult:
+Female moth:  Bright yellowish brown; forewings with a black spot.
+Male moth: Smaller than female with pale yellow colour; forewings without black spot
+
+
+Life Cycle & Biology: 
+The life cycle of YSB comprises of four stages i.e., egg, larva, pupa and adult stages. In cooler climates, diapause occurs in larval stage.
+Egg: Eggs are laid on upper-surface and upper half of leaves in groups. Adult female moth lays between 150 to 600 eggs deposited in three or four oval masses of 50 to 200 eggs each. Egg masses are covered with brownish velvety hair obtained from the hair on the abdomen. Egg incubation takes between 5 to 9 days at optimum temperatures of 24 to 29°C.
+Larva: The larvae usually undergo four to seven larval instar stages to become full grown. at 23-35°C. Within 2 h of egg hatch, almost all the newly hatched larvae will have either entered the leaf sheaths of the plant on which they enclosed or will have dispersed to other plants. After1 week, some larvae move to other plants or other tillers of the same plant. At optimum temperatures, larvae complete development in 17 to 27 days. The larvae become dormant if dry periods occur or in seasons when rice is not grown. During rice-free times, the larvae remain in the stubble below the soil. Mortality is high (90%) during periods of dormancy, due to destruction of stubble, and possibly due to predation by spiders and adverse environments.
+Pupa: They pupate in white silk cocoons made in hollow stems at the base of the plant. The pupa is yellowish white with a tinge of green. It turns dark brown just before adult emergence. Pupation occurs in the rice stems or stubble and lasts about 9 to 12 days.
+Adult: Adults exhibit remarkable sexual dimorphism. Yellow stem borer undergoes three or more generations in a season. Most borer species are capable of flying only a short distance; however, they can travel 8-16 km if carried by wind.
+Female moth: The female moth is straw coloured with a conspicuous single black spot at the center towards lower angle of each of the fore wings while hind wings are pale straw coloured. The tip of the abdomen of female is covered with tufts of yellowish silken hairs forming a circle around a ventral opening. YSB adult females emerge near the time that rice is tillering and live for 7 to 10 days.
+Male moth: Male moths are smaller grey or light-brown with 8-9 small dark spots near the tip of the forewing and five along the sub-terminal area. Abdomen is slender, anal end has a thin hairy structure covering dorsally. 
+
+
+Symptoms of damage: 
+Yellow stem borer is a major pest of tropical lowland and deep-water rice. It attacks all stages of the crop. Larva bores into central shoot of paddy seedling and tiller, causing drying and death of the central shoot known as “dead heart”. If infestation occurs in grown up plant, the whole panicle becomes dried with chaffy spikelets (without grains) and can be easily pulled out which is known as “white ears”. Affected shoots and panicles could be easily pulled by hand. Presence of brown coloured egg mass near leaf tip can also be seen.
+
+
+ETL Levels: 
+Nursery: 1 egg-mass/ mtr. sq.
+Early to late tillering: 2 egg-mass/mtr. sq. or 10% dead heart or 1 moth/m2 or 25 moths/ trap/week.
+Panicle initiation to booting: 2 egg-mass/mtr. sq. or 1 moth/mtr. sq. or 25 moths / trap / week
+
+
+Favourable Conditions of Pest:  Drop in mean temperature (< 28° C) in association with continuous rain was found to be the congenial weather condition for outbreak of stem borer on rice.
+Management Practices: 
+1. Resistant varieties, cultivars developed: Ratna, Sasyasree, Vikas, HKR 46, NDGR 21, Pantdhan 6, VLK 39, Prahlad, Birsadhan 201, Bhudeb Ainesh, Matangini, Radha, Sudha, Amulya, Bhagirathi, Jogan, Mandira, Nalini, Sabita, VL16 and VL 206.
+
+
+
+
+2. Cultural Practices:
+* The primary control option for the control of YSB is the use of resistant varieties. Local agriculture office should be contacted for up-to-date lists of available resistant varieties.
+* Seed treatment with approved biopesticides or chemical pesticides before sowing.
+* Remove and destroy the grass weed hosts in the field bunds, channel or nearby areas of rice fields as these serves as alternative host for the pest.
+* Avoid close spacing as it often increases the easy movement of pest. 
+* Handpick and destroy egg masses in the seedbed (nursery) before transplanting the field.
+* Before transplanting, cut the leaf-top to reduce carry-over of eggs from the seedbed to the field.
+* Raise level of irrigation water periodically to submerge any eggs deposited on the lower parts of the plant.
+* Cut out the stems with dead hearts and remove from the field. Destroy the larvae or burn the stems. 
+* Split applications of nitrogen fertiliser. High nitrogen application favours build-up of stem borers.
+* Rice varieties with short stature and shorter growth duration periods suffer less damage than long growth duration varieties. 
+* Rice with shorter growth duration varieties suffer less damage than long duration varieties. This may be because of stem-borer mortality due to harvests occurring twice in the double cropping system. 
+* Community-wide destruction of diapausing larvae (in stubble) through tillage after harvest, followed by flooding, reduces stem borer populations resulting in low incidence in the next crop
+* Planting or seeding times may be delayed to avoid the peak emergence of moths from the diapausing populations.
+* Rice seedbeds may be used as a trap crop for moths emerging from diapause
+
+
+3. Mechanical/Physical practices:  
+* Collection of egg masses and larvae of pest to be placed in bamboo cages for conservation of biocontrol agents. 
+* Removal and destruction (burn) of pest infested plant parts. 
+* Clipping of rice seedlings tips at the time of transplanting to minimize carryover of stem borer infestation from seed bed to the transplanted fields
+* Mass trapping by installing pheromone traps @ 20 traps/ha with lures containing 10-15 mg pheromone at 20 days after transplanting
+* Install light trap @ 1 / ha.
+
+
+4. Biological methods (Including use of predators, parasites, botanicals, microbial biocontrol agents, pest specific natural enemies)
+* Trichogramma japonicum and T chilonis may be released @ 1 lakh/ha on appearance of egg masses / moth of yellow stem borer and leaf folder in the field.
+* Natural biocontrol agents such as spiders, drynids, water bugs, mirid bugs, damsel flies, dragonflies, meadow grasshoppers, staphylinid beetles, carabids, coccinellids, Apanteles, Tetrastichus, Telenomus, Trichogramma, Bracon, Platygaster etc. should be conserved. 
+* Collection of egg masses of borers and putting them in a bamboo cage-cum-percher till flowering which will permit the escape of egg parasites and trap and kill the hatching larvae. Besides, these would allow perching of predatory birds. 
+* Habitat management: Protection of natural habitats within the farm boundary may help in conserving natural enemies of pests. Management of farmland and rice bunds with planting of flowering weeds like marigold, sun hemp increases beneficial natural enemy population and also reduce the incidence of root knot nematodes. Provide refuge like straw bundles having charged with spiders to help in build-up spider population and to provide perch for birds.
+
+
+Parasitoids:
+
+
+Egg parasitoid: Trichogramma japonicum, Trichogramma chilonis, Tetrastichus schoenobii (At least 3 stem borer eggs are needed for development of each wasp), Telenomus rowani (A female parasitizes 20-40 eggs and lives 2-4 days or longer if nectar or sugar solution is provided).
+Larval parasitoids: Amauromorpha accepta, Cotesia flavipes
+Larval and pupal parasitoids: Xanthopimpla flavolineata
+
+
+Predators: Spiders- Pardosa psuedoannulata (Wolf spider), Tetragnatha maxillosa (Long-jawed spider).
+
+
+Botanicals: (Approved Botanical and biopesticides as per CIBR&C MUP)
+1. Azadirachtin 0.15% EC w/w Min. Neem Seed Kernel Based @ 1500-2500ml in 500L water/ha (05 days waiting period); or
+2. Azadirachtin 00.03% EC Min. Neem Oil Based @2000ml in 1000L water/ha(05 days waiting period); or
+3. Azadirachtin 05.00% w/w Min. Neem Extract Concentrates @ 200ml in 400L water/ha (05 days waiting period); 
+
+
+Bio insecticide: 
+1. Bacillus thuringiensis var. kurstaki, serotype H-39, 3B, @ 1.5kg in 500-750L water/ha.
+2. Bacillus thuringiensis var. kurstaki 2.5% AS @1.5kg in 500-750L water/ha.
+
+
+5. Chemical methods: 
+Judicious use of any of the following chemical pesticide may be done after the proper identification of the Yellow Stem Borer by an expert and after the Pest crosses the ETL level.
+Acephate 75 % SP@ 666 – 100gm in 300-500L water/ ha (15 days waiting period); Acephate 97 % DF 750gm in 500L water/ha (21 days waiting period); Acephate 95 % SG @ 592 gm in  500L water/ ha (30 days waiting period); Benfuracarb 03 % GR @ 33000 gm (20 days waiting period); Bifenthrin 08.80 % CS@ 500 gm in 500L water/ha (21 days waiting period); Bifenthrin 10 % EC @500 gm in 500L water/ha (21 days waiting period); Carbofuran 03 % CG@ 25000gm/ ha; Cartap Hydrochloride 04 % Granules@ 18750gm/ha; Cartap Hydrochloride 50 % SP@ 1000gm in 500-1000L water/ha; Chlorantraniliprole 18.50 % SC@ 150gm in 500L water/ha (47 days waiting period); Cartap Hydrochloride 75 % SG@ 425 – 500gm in 250 – 500L water/ha (35-89 days waiting period); Chlorantraniliprole 00.40 % GR@ 10000g/ha (53 days waiting period); Chlorpyrifos 10 % Granules@ 10000gm/ha (30 days waiting period); Chlorpyrifos 20 % EC@ 1250ml in 500-1000L water/ha; Chlorpyrifos 50 % EC @ 750-800ml in 500-1000L water/ha (15 days waiting period); Chlorpyrifos 01.50 % DP @ 25000gm/ ha (07 days waiting period); Deltamethrin 11% w/w EC @ 125ml in 400-6—L water/ha (30 days waiting period); Deltamethrin 01.80 % EC @ 625-780 ml in 500L water/ha (07 days waiting period); Ethofenoprox 10 % EC @ 500-750ml in 500L water/ha (15 days waiting period); Fenpropathrin 30 % EC@ 333ml in 500L water/ha (30 days waiting period); Fenpropathrin 10% EW @ 1000ml in 5000L water/ha (58 days waiting period); Fipronil 05 % SC@ 1000-1500gm in 500L water/ha (32 days waiting period); Fipronil 18.87 % w/w SC@ 250gm in 500L water/ha (46 days waiting period); Fipronil 00.30 % GR@ 16670-25000 gm/ ha (32 days waiting period); Fipronil 00.60 % w/w GR @ 10gm in 65L water/ha; Fipronil 80 % WG @ 62.50 375ml in 500L water/ha (19 days waiting period); Flubendiamide 20 % WG @ 125gm in 500L water/ha (30days waiting period); Flubendiamide 39.35 % w/w SC @ 50gm in 375 – 500L water/ha (40 days waiting period); Flubendiamide 00.70 % GR @ 12.14-14.28gm/ha (25 days waiting period); Flupyrimin 2% GR @ 5000-7500gm/ha (77 days waiting period); Monocrotophos 36 % SL@ 1250ml in 500-1000L water/ha; Imidacloprid 00.30 % GR @ 15kg/ha (26 days waiting period); Lambda-cyhalothrin 04.90 % CS @ 250ml in  500L water/ha (15 days waiting period); Lambda-cyhalothrin 02.50 % EC @ 500ml in  400-600L water/ha (15 days waiting period); Lambda-cyhalothrin 05 % EC@ 250ml in  400-600L water/ha (15 days waiting period); Phosmet 50% WP@ 1200ml in 500L water/ha (45 days waiting period); Tetraniliprole 18.18 SC @250-300gm In 500L water/ha (43 days waiting period); Quinalphos 25 % Gel @ 1000ml in 500–1000L water/ha; Quinalphos 05 % Granules @5000gm/ha; Quinalphos 25 % EC@ 1300ml in 500–1000L water/ha (40 days waiting period); Tetraniliprole 40.34% FS@ 10-12.5ml/ha; Thiacloprid 21.70 % SC @ 500gm in 500L water/ha (30 days waiting period); Thiocyclam Hydrogen Oxalate 50% SP@ 1000gm in 500L water/ha (30 days waiting period);  Thiamethoxam 25 % WG @ 100gm in 500-750L water/ha (14 days waiting period); Acephate 50 % + Fipronil 5% WDG @ 1000gm in 500L water/ha (27 days waiting period); Acephate 50 % + Imidacloprid 01.80 % SP @ 1000gm in 500Lwater/ha; Acetamiprid 00.40 % + Chlorpyriphos 20 % EC @ 2.5ml in 500-800L water/ha (10days waiting period); Azoxystrobin 10.0% + Fipronil 5% SC @ 1250gm in 500L water/ha (53 days waiting period); Bifenthrin 03 % + Chlorpyriphos 30 % w/w EC @ 800-1000ml in 500L water/ha (21 days waiting period); Buprofezin 20 % + Acephate 50 % w/w WP@ 1000gm in 500L water/ha (20days waiting period); Buprofezin 20 % + Acetamiprid 2% w/w WP@ 800gm in 400L water/ha (15 days waiting period); Cartap Hydrochloride 04 % + Fipronil 00.50 % CG@ 15-20gm/ha (27 days waiting period); Cyantraniliprole 16.9% + Lufenuron 16.9% SC @50gm in 500L water/ha (39days waiting period); Cypermethrin 10 % + Indoxacarb 10 % w/w SC @ 250gm in 500L water/ha (37days waiting period); Chlorpyrifos 50 % + Cypermethrin 05 % EC @ 625-750ml in 500-700L water/ha (15 days waiting period); Cartap Hydrochloride 50 % + Buprofezin 10 % w/w WP @ 800gm in 500L water/ha (20 days waiting period); Cartap Hydrochloride 7.5 % w/w + Emamectin benzoate 0.25 %w/w GR @ 7.5 gm (35 days waiting period); Cypermethrin 10 % + Indoxacarb 10 % w/w SC@ 250gm in 500L water/ha (37 days waiting period); Fipronil 5% + Buprofezin 20% SC @ 1000gm ion 500L water/ha (20 days waiting period); Flubendiamide 04 % + Buprofezin 20 % w/w SC @ 175+700gm in 500L water/ha (30 days waiting period); Flubendiamide 19.92 % + Thiacloprid 19.92 % w/w SC@ 250gm in 500L water/ha (33 days waiting period); Flubendiamide 03.50 % + Hexaconazole 05 % w/w WG@  1000gm in 500L water/ha (20 days waiting period); Flubendiamide 07.5 % + Kresoxim Methyl 37.5 % w/w SC @ 667gm in 500L water/ha (20days waiting period); Fipronil 15% + Flonicamid 15% WDG @ 400gm in 500L water/ha (30 days waiting period); Imidacloprid 06 % + Lambda-cyhalothrin 04 % SL @ 300ml in 500L water/ha (10days waiting period); Isoprothiolane 28% + Fipronil 5% EC@ 1000ml in 500L water/ha (58 days waiting period); Indoxacarb 10.0% + Thiamethoxam 10.0% WG@ 500gm in 50L water/ha (14 days waiting period); Phenthoate 45% + Cypermethrin 6% EC@ 1000ml in 500L water (At the end of the Harvest); Acetamiprid 00.40 % + Chlorpyriphos 20 % EC@ 2.5ml in 500-800L water/ha (10 days waiting period); Chlorantraniliprole 09.30 % + Lambda-cyhalothrin 04.60 % ZC @ 200ml in 250 500L water/ha (53 days waiting period); Chlorantraniliprole 00.50 % + Thiamethoxam 01 % w/w GR@ 6kg/ha (60days waiting period); Chlorantraniliprole 08.80 % + Thiamethoxam 17.50 % w/w SC for rice nursery 600gm in 100L water/ha (Application method-Soil drench-Single application and Application time- At the time of sowing to before transplanting) with 116days waiting period.
